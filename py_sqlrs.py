@@ -621,29 +621,7 @@ X战警,http://mmitv.top/pltv/yy.php?id=1382736893
 猫与老鼠,http://123.132.226.194:31028/hls/93/index.m3u8
 
 回顾2023,#genre#
-消失的她,https://hot.qoqkkhy.com/20230626/GTnlQoCn/index.m3u8
-人生路不熟,https://m3u8.wolongcdnm3u8.com:65/20230630/7ecfd899/index.m3u8
-秦岭镇天棺,https://top.qoqkkhy.com/202306/24/Mu2K2bjfaf3/video/index.m3u8
-重启之蛇骨佛蜕,https://qq.sd-play.com/20220122/ZvOHuKo4/index.m3u8
-河神诡水怪谈,https://tihuan.xn--654a.cc/Cache/youku/34d4b8557c341ec8688d361bcd1c4513.m3u8
-爱欲四部曲2,https://ukzy.ukubf8.com/20230629/c70jrwJJ/index.m3u8
-曼谷风云,https://cdn16.yzzy-tv-cdn.com/20230620/10364_a7afa251/index.m3u8
-昆仑境,https://cdn15.yzzy-tv-cdn.com/20230610/15317_9ea0d662/index.m3u8
-梅根,https://hot.qoqkkhy.com/20230125/PfuPsLWM/index.m3u8
-医者来时路,https://cdn12.yzzy-tv-cdn.com/20230220/19780_22a40f1d/index.m3u8
-山村旅店,https://ukzyvod3.ukubf5.com/20230528/AFk3qX8j/index.m3u8
-大捕快之盗画案,https://img.sobot.com/chatres/d0c6cbd859204e61a7e31ed0361d56bc/msg/20230702/4c34283e239f424c9eeef90ef3427a33/e3147706b72f484ea4e996caf8465c65.m3u8
-电影九龙秘藏,https://ukzyvod3.ukubf5.com/20230615/f62WRA4Q/index.m3u8
-绝色狂花之龙迹神宫,https://cdn16.yzzy-tv-cdn.com/20230510/4888_37a72eb5/index.m3u8
-大海怪,https://ukzyvod3.ukubf5.com/20230416/SMQI1Hjn/index.m3u8
-辣警狂花:第1部,https://cdn13.yzzy-tv-cdn.com/20230322/18321_a967b574/index.m3u8
-辣警狂花:第2部,https://cdn15.yzzy-tv-cdn.com/20230326/4049_1b286d2c/index.m3u8
-辣警狂花:第3部,https://cdn15.yzzy-tv-cdn.com/20230329/4852_2724c586/index.m3u8
-彩戏师之云机现世,https://hot.qoqkkhy.com/20230328/IDCvE2sO/index.m3u8
-民俗怪闻录之诡戏班,https://hot.qoqkkhy.com/20230321/AQK1BdPm/index.m3u8
-黄河巨蛇事件,https://hot.qoqkkhy.com/20230216/LmKVNmwS/index.m3u8
-流浪地球2,https://cdn10.yzzy-tv-cdn.com/20230124/23895_527527bc/index.m3u8
-两万种蜜蜂,https://s8.fsvod1.com/20230701/pQobQIY4/index.m3u8
+
 断网假期,https://hnzy.bfvvs.com/play/9b6p0GNe/index.m3u8
 坚如磐石,https://hnzy.bfvvs.com/play/Rb4n2L2e/index.m3u8
 坚如磐石,https://top.1080pzy.co/202312/15/Sy4wXRV2mB3/video/1000k_0X720_64k_25/hls/index.m3u8
@@ -672,7 +650,16 @@ X战警,http://mmitv.top/pltv/yy.php?id=1382736893
 性游戏,https://hnzy.bfvvs.com/play/Pdyv2QPe/index.m3u8
 生理大叔和他的女儿,https://cdn14.yzzy-kb-cdn.com/20230408/17327_8da952d1/2000k/hls/index.m3u8
 野花,https://top.1080pzy.co/202310/07/F8rnuUpsPq3/video/1000k_0X720_64k_25/hls/index.m3u8
-
+爱欲四部曲2,https://ukzy.ukubf8.com/20230629/c70jrwJJ/index.m3u8
+山村旅店,https://ukzyvod3.ukubf5.com/20230528/AFk3qX8j/index.m3u8
+大捕快之盗画案,https://img.sobot.com/chatres/d0c6cbd859204e61a7e31ed0361d56bc/msg/20230702/4c34283e239f424c9eeef90ef3427a33/e3147706b72f484ea4e996caf8465c65.m3u8
+电影九龙秘藏,https://ukzyvod3.ukubf5.com/20230615/f62WRA4Q/index.m3u8
+大海怪,https://ukzyvod3.ukubf5.com/20230416/SMQI1Hjn/index.m3u8
+辣警狂花:第1部,https://cdn13.yzzy-tv-cdn.com/20230322/18321_a967b574/index.m3u8
+辣警狂花:第2部,https://cdn15.yzzy-tv-cdn.com/20230326/4049_1b286d2c/index.m3u8
+辣警狂花:第3部,https://cdn15.yzzy-tv-cdn.com/20230329/4852_2724c586/index.m3u8
+流浪地球2,https://cdn10.yzzy-tv-cdn.com/20230124/23895_527527bc/index.m3u8
+两万种蜜蜂,https://s8.fsvod1.com/20230701/pQobQIY4/index.m3u8
 
 
 台湾,#genre#
