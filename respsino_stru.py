@@ -1,8 +1,8 @@
 
 ［测试-git］,#genre#
-小田和正,https://jihulab.com/jigedos/gao/-/raw/master/3.mp4?inline=false
-爱的力量,https://jihulab.com/jigedos/gao/-/raw/master/01.mp4?ref_type=heads&inline=false
-Rock DJ,https://jihulab.com/jigedos/gao/-/raw/master/02.mp4?ref_type=heads&inline=false
+新公众号,https://jihulab.com/jigedos/gao/-/raw/master/3.mp4?inline=false
+非凡小小,https://jihulab.com/jigedos/gao/-/raw/master/01.mp4?ref_type=heads&inline=false
+========,https://jihulab.com/jigedos/gao/-/raw/master/02.mp4?ref_type=heads&inline=false
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 公众体验版,#genre#
 独享完整版,#genre#
