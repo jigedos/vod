@@ -265,6 +265,18 @@ CGTN法语,http://171.214.202.74:4000/udp/239.93.42.50:5140
 每日影院,http://171.214.202.74:4000/udp/239.93.42.35:5140
 金鹰纪实,http://58.19.13.92:9901/tsfile/live/1032_1.m3u8
 快乐垂钓,http://58.19.13.92:9901/tsfile/live/1033_1.m3u8
+广东体育,http://170.178.177.98:27347/livehttpplay?channel_id=20130
+广东体育,http://170.178.177.98:27347/livehttpplay?channel_id=30031
+广东体育,http://170.178.177.99:27347/livehttpplay?channel_id=20130
+广东体育,http://170.178.177.99:27347/livehttpplay?channel_id=30031
+广东体育,http://170.178.177.100:27347/livehttpplay?channel_id=20130
+广东体育,http://170.178.177.100:27347/livehttpplay?channel_id=30031
+广东体育,http://170.178.177.101:27347/livehttpplay?channel_id=20130
+广东体育,http://170.178.177.101:27347/livehttpplay?channel_id=30031
+广东体育,http://170.178.177.102:27347/livehttpplay?channel_id=20130
+广东体育,http://170.178.177.102:27347/livehttpplay?channel_id=30031
+
+
 IHOT,#genre#
 爱怀旧,http://171.214.202.74:4000/udp/239.93.42.21:5140
 爱喜剧,http://171.214.202.74:4000/udp/239.93.42.9:5140
@@ -341,18 +353,66 @@ IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 天映頻道,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683142
 天映频道,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=683142
 天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=683110凤凰中文,http://170.178。177.98:27347/livehttpplay?channel_id=20065
-
 凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=30014
 凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=20066
 凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
+凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=20065
+凤凰中文,http://170.178.177.99:27347/livehttpplay?channel_id=20065
+凤凰中文,http://170.178.177.99:27347/livehttpplay?channel_id=30014
+凤凰中文,http://170.178.177.100:27347/livehttpplay?channel_id=20065
+凤凰中文,http://170.178.177.100:27347/livehttpplay?channel_id=30014
+凤凰中文,http://170.178.177.101:27347/livehttpplay?channel_id=20065
+凤凰中文,http://170.178.177.101:27347/livehttpplay?channel_id=30014
+凤凰中文,http://170.178.177.102:27347/livehttpplay?channel_id=20065
+凤凰中文,http://170.178.177.102:27347/livehttpplay?channel_id=30014
+凤凰资讯,http://170.178.177.99:27347/livehttpplay?channel_id=20066
+凤凰资讯,http://170.178.177.99:27347/livehttpplay?channel_id=30015
+凤凰资讯,http://170.178.177.100:27347/livehttpplay?channel_id=20066
+凤凰资讯,http://170.178.177.100:27347/livehttpplay?channel_id=30015
+凤凰资讯,http://170.178.177.101:27347/livehttpplay?channel_id=20066
+凤凰资讯,http://170.178.177.101:27347/livehttpplay?channel_id=30015
+凤凰资讯,http://170.178.177.102:27347/livehttpplay?channel_id=20066
+凤凰资讯,http://170.178.177.102:27347/livehttpplay?channel_id=30015
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=20123
 无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
+无线新闻,http://170.178.177.99:27347/livehttpplay?channel_id=20123
+无线新闻,http://170.178.177.99:27347/livehttpplay?channel_id=30024
+无线新闻,http://170.178.177.100:27347/livehttpplay?channel_id=20123
+无线新闻,http://170.178.177.100:27347/livehttpplay?channel_id=30024
+无线新闻,http://170.178.177.101:27347/livehttpplay?channel_id=20123
+无线新闻,http://170.178.177.101:27347/livehttpplay?channel_id=30024
+无线新闻,http://170.178.177.102:27347/livehttpplay?channel_id=20123
+无线新闻,http://170.178.177.102:27347/livehttpplay?channel_id=30024
+明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
+明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
+明珠台,http://170.178.177.99:27347/livehttpplay?channel_id=20125
+明珠台,http://170.178.177.99:27347/livehttpplay?channel_id=30026
+明珠台,http://170.178.177.100:27347/livehttpplay?channel_id=20125
+明珠台,http://170.178.177.100:27347/livehttpplay?channel_id=30026
+明珠台,http://170.178.177.101:27347/livehttpplay?channel_id=20125
+明珠台,http://170.178.177.101:27347/livehttpplay?channel_id=30026
+明珠台,http://170.178.177.102:27347/livehttpplay?channel_id=20125
+明珠台,http://170.178.177.102:27347/livehttpplay?channel_id=30026
+ViuTVsix,http://170.178.177.98:27347/livehttpplay?channel_id=20132
+ViuTVsix,http://170.178.177.98:27347/livehttpplay?channel_id=30033
+ViuTVsix,http://170.178.177.99:27347/livehttpplay?channel_id=20132
+ViuTVsix,http://170.178.177.99:27347/livehttpplay?channel_id=30033
+ViuTVsix,http://170.178.177.100:27347/livehttpplay?channel_id=20132
+ViuTVsix,http://170.178.177.100:27347/livehttpplay?channel_id=30033
+ViuTVsix,http://170.178.177.101:27347/livehttpplay?channel_id=20132
+ViuTVsix,http://170.178.177.101:27347/livehttpplay?channel_id=30033
+ViuTVsix,http://170.178.177.102:27347/livehttpplay?channel_id=20132
+ViuTVsix,http://170.178.177.102:27347/livehttpplay?channel_id=30033
+
 无线财经资讯,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 HOY 76,http://170.178.177.98:27347/livehttpplay?channel_id=30037
+HHOY 76,http://170.178.177.99:27347/livehttpplay?channel_id=30037
+HOY 76,http://170.178.177.100:27347/livehttpplay?channel_id=30037
+HOY 76,http://170.178.177.101:27347/livehttpplay?channel_id=30037
+HOY 76,http://170.178.177.102:27347/livehttpplay?channel_id=30037
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
+
 马来欢喜,http://141.95.85.201:6666/livehttpplay?channel_id=10123
 马来华丽,http://141.95.85.201:6666/livehttpplay?channel_id=10125
 爆谷台,http://141.95.85.201:6666/livehttpplay?channel_id=10126
@@ -372,6 +432,124 @@ HBO FAMILY,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&ext
 新时代电视2台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=90352
 美国城市卫星,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=156401
 华夏电视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=156422
+凤凰中文,http://141.95.85.201:6666/livehttpplay?channel_id=20065
+凤凰中文,http://141.95.85.201:6666/livehttpplay?channel_id=30014
+凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=20066
+凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30015
+凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=20067
+凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=30016
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=30025
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026
+星河频道,http://51.77.65.194:27347/livehttpplay?channel_id=20070
+TVB J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122
+TVB J2,http://141.95.85.201:6666/livehttpplay?channel_id=30023
+TVB J2,http://141.95.85.201:6666/livehttpplay?channel_id=30030
+无线新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20123
+无线新闻,http://141.95.85.201:6666/livehttpplay?channel_id=30024
+无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=20121
+无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=30022
+无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=30019
+Now 新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20041
+HOY 77台,http://141.95.85.201:6666/livehttpplay?channel_id=20152
+HOY 78台,http://141.95.85.201:6666/livehttpplay?channel_id=20191
+ViuTV,http://141.95.85.201:6666/livehttpplay?channel_id=20131
+ViuTV,http://141.95.85.201:6666/livehttpplay?channel_id=30032
+ViuTVsix,http://141.95.85.201:6666/livehttpplay?channel_id=20132
+ViuTVsix,http://141.95.85.201:6666/livehttpplay?channel_id=30033
+港台电视31,http://141.95.85.201:6666/livehttpplay?channel_id=20203
+港台电视31,http://141.95.85.201:6666/livehttpplay?channel_id=30066
+港台电视32,http://141.95.85.201:6666/livehttpplay?channel_id=30028
+港台电视32,http://141.95.85.201:6666/livehttpplay?channel_id=30067
+美亚电影,http://141.95.85.201:6666/livehttpplay?channel_id=20197
+星河频道,http://141.95.85.201:6666/livehttpplay?channel_id=20070
+澳视澳门,http://141.95.85.201:6666/livehttpplay?channel_id=13061
+澳视葡文,http://141.95.85.201:6666/livehttpplay?channel_id=13062
+澳视体育,http://141.95.85.201:6666/livehttpplay?channel_id=13063
+
+
+台湾省,#genre#
+美国中文电视,http://141.95.85.201:6666/livehttpplay?channel_id=10128
+Channel 8,http://141.95.85.201:6666/livehttpplay?channel_id=10132
+ELTA综合,http://141.95.85.201:6666/livehttpplay?channel_id=16076
+TVBS欢乐,http://141.95.85.201:6666/livehttpplay?channel_id=20105
+TVBS精彩,http://141.95.85.201:6666/livehttpplay?channel_id=20136
+TVBS新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20165
+八大精彩,http://141.95.85.201:6666/livehttpplay?channel_id=20052
+八大娱乐,http://141.95.85.201:6666/livehttpplay?channel_id=20071
+八大综合,http://141.95.85.201:6666/livehttpplay?channel_id=20075
+东森财经,http://141.95.85.201:6666/livehttpplay?channel_id=20078
+东森戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=20072
+东森新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20082
+东森综合,http://141.95.85.201:6666/livehttpplay?channel_id=20104
+非凡新聞,http://141.95.85.201:6666/livehttpplay?channel_id=20034
+公视,http://141.95.85.201:6666/livehttpplay?channel_id=20087
+国兴卫视,http://141.95.85.201:6666/livehttpplay?channel_id=20164
+华视,http://141.95.85.201:6666/livehttpplay?channel_id=20086
+寰宇新闻台湾台,http://141.95.85.201:6666/livehttpplay?channel_id=20196
+靖天电影,http://141.95.85.201:6666/livehttpplay?channel_id=12037
+靖天欢乐,http://141.95.85.201:6666/livehttpplay?channel_id=30021
+靖天日本,http://141.95.85.201:6666/livehttpplay?channel_id=16077
+靖天育乐,http://141.95.85.201:6666/livehttpplay?channel_id=30020
+卡通频道,http://141.95.85.201:6666/livehttpplay?channel_id=20048
+民视,http://141.95.85.201:6666/livehttpplay?channel_id=20074
+年代新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20033
+三立都会,http://141.95.85.201:6666/livehttpplay?channel_id=20100
+三立台湾,http://141.95.85.201:6666/livehttpplay?channel_id=16074
+三立新闻,http://141.95.85.201:6666/livehttpplay?channel_id=10126
+三立综合,http://141.95.85.201:6666/livehttpplay?channel_id=12038
+台视,http://141.95.85.201:6666/livehttpplay?channel_id=20076
+台视,http://141.95.85.201:6666/livehttpplay?channel_id=20314
+纬来育乐,http://141.95.85.201:6666/livehttpplay?channel_id=20202
+纬来综合,http://141.95.85.201:6666/livehttpplay?channel_id=20201
+壹新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20028
+中视,http://141.95.85.201:6666/livehttpplay?channel_id=20088
+中天娱乐,http://141.95.85.201:6666/livehttpplay?channel_id=20079
+中天综合,http://141.95.85.201:6666/livehttpplay?channel_id=20064
+
+
+体育频道,#genre#
+五星体育,http://141.95.85.201:6666/livehttpplay?channel_id=20060
+广东体育,http://141.95.85.201:6666/livehttpplay?channel_id=20130
+广东体育,http://141.95.85.201:6666/livehttpplay?channel_id=30031
+广东体育,http://141.95.85.201:6666/livehttpplay?channel_id=12028
+爱尔达体育1,http://141.95.85.201:6666/livehttpplay?channel_id=20129
+爱尔达体育2,http://141.95.85.201:6666/livehttpplay?channel_id=20107
+博斯高球1,http://141.95.85.201:6666/livehttpplay?channel_id=20103
+博斯高球2,http://141.95.85.201:6666/livehttpplay?channel_id=20117
+博斯运动1,http://141.95.85.201:6666/livehttpplay?channel_id=10131
+博斯运动2,http://141.95.85.201:6666/livehttpplay?channel_id=20311
+ELEVEN SPORTS 1,http://141.95.85.201:6666/livehttpplay?channel_id=10104
+ELEVEN SPORTS 2,http://141.95.85.201:6666/livehttpplay?channel_id=10105
+纬来体育,http://141.95.85.201:6666/livehttpplay?channel_id=20120
+纬来日本,http://141.95.85.201:6666/livehttpplay?channel_id=20303
+Big Ten Network,http://141.95.85.201:6666/livehttpplay?channel_id=13037
+ESPN US,http://141.95.85.201:6666/livehttpplay?channel_id=13030
+ESPN 2 US,http://141.95.85.201:6666/livehttpplay?channel_id=13031
+ESPN U US,http://141.95.85.201:6666/livehttpplay?channel_id=13032
+ESPN NEWS,http://141.95.85.201:6666/livehttpplay?channel_id=13036
+FOX SPORTS 1 HD US,http://141.95.85.201:6666/livehttpplay?channel_id=13033
+FOX SPORTS 2 HD US,http://141.95.85.201:6666/livehttpplay?channel_id=13034
+HBO FAMILY WEST,http://141.95.85.201:6666/livehttpplay?channel_id=13042
+HBO WEST,http://141.95。85.201:6666/livehttpplay?channel_id=13038
+HBO2 WEST,http://141.95.85.201:6666/livehttpplay?channel_id=13039
+BT SPORTS 1 test[1024*576],http://141.95.85.201:6666/livehttpplay?channel_id=13040
+BT SPORTS 2 test,http://141.95.85.201:6666/livehttpplay?channel_id=13041
+BT SPORTS 3 test,http://141.95.85.201:6666/livehttpplay?channel_id=13043
+SKY Main Event test,http://141.95.85.201:6666/livehttpplay?channel_id=13044
+ACTION MAX,http://141.95.85.201:6666/livehttpplay?channel_id=13048
+CINE MAX EAST,http://141.95.85.201:6666/livehttpplay?channel_id=13045
+MORE MAX,http://141.95.85.201:6666/livehttpplay?channel_id=13047
+MOVIE MAX,http://141.95.85.201:6666/livehttpplay?channel_id=13050
+HKN 英超CH622,http://141.95.85.201:6666/livehttpplay?channel_id=13007
+HKN 英超CH623,http://141.95.85.201:6666/livehttpplay?channel_id=13008
+HKN 英超CH624,http://141.95.85.201:6666/livehttpplay?channel_id=13009
+HKN 英超CH625,http://141.95.85.201:6666/livehttpplay?channel_id=13010
+HKN 英超CH626,http://141.95.85.201:6666/livehttpplay?channel_id=13011
+HKN Sports Premier League 1,http://141.95.85.201:6666/livehttpplay?channel_id=13012
+
 
 少儿频道,#genre#
 卡酷动画,http://171.214.202.74:4000/udp/239.93.0.208:5140
@@ -383,6 +561,42 @@ HBO FAMILY,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&ext
 嘉佳卡通,http://61.48.47.78:7000/rtp/239.3.1.147:9268
 春动漫,http://171.214。202.74:4000/udp/239.93.0.146:5140
 少儿动画,http://61.48.47.78:7000/rtp/239.3.1.199:9000
+尼克动画,http://141.95.85.201:6666/livehttpplay?channel_id=20089
+靖天卡通,http://141.95.85.201:6666/livehttpplay?channel_id=16072
+momo亲子台,http://141.95.85.201:6666/livehttpplay?channel_id=16085
+
+科学探索,#genre#
+BBC地球,http://141.95.85.201:6666/livehttpplay?channel_id=20044
+国家地理,http://141.95.85.201:6666/livehttpplay?channel_id=20037
+动物星球,http://141.95.85.201:6666/livehttpplay?channel_id=20106
+探索世界,http://51.77.65.194:27347/livehttpplay?channel_id=20110
+探索亚洲,http://51.77.65.194:27347/livehttpplay?channel_id=20113
+龙祥时代,http://51.77.65.194:27347/livehttpplay?channel_id=20114
+探索科学,http://51.77.65.194:27347/livehttpplay?channel_id=20115
+
+娱乐频道,#genre#
+HBO,http://141.95.85.201:6666/livehttpplay?channel_id=20093
+HBO family MOVIES HD,http://141.95.85.201:6666/livehttpplay?channel_id=20092
+HBO HITS HD,http://141.95.85.201:6666/livehttpplay?channel_id=20091
+东森电影,http://141.95.85.201:6666/livehttpplay?channel_id=20077
+东森洋片,http://141.95.85.201:6666/livehttpplay?channel_id=20080
+好莱坞电影,http://141.95.85.201:6666/livehttpplay?channel_id=20062
+影迷数位电影台,http://141.95.85.201:6666/livehttpplay?channel_id=10123
+纬来电影,http://141.95.85.201:6666/livehttpplay?channel_id=20199
+天映频道,http://141.95.85.201:6666/livehttpplay?channel_id=10130
+龙华电影,http://141.95.85.201:6666/livehttpplay?channel_id=10129
+龙华偶像,http://141.95.85.201:6666/livehttpplay?channel_id=20023
+龙华日韩,http://141.95.85.201:6666/livehttpplay?channel_id=20081
+龙华戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=12035
+龙华洋片,http://141.95.85.201:6666/livehttpplay?channel_id=20090
+龙祥时代,http://141.95.85.201:6666/livehttpplay?channel_id=20114
+华纳WBTV,http://141.95.85.201:6666/livehttpplay?channel_id=20112
+靖天映画,http://141.95.85.201:6666/livehttpplay?channel_id=16078
+三立戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=10125
+采昌影剧,http://141.95.85.201:6666/livehttpplay?channel_id=20141
+AXN,http://141.95.85.201:6666/livehttpplay?channel_id=12039
+CatchPlay电影台,http://141.95.85.201:6666/livehttpplay?channel_id=10127
+纬来戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=20200
 
 
 
@@ -1124,7 +1338,27 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 
 
-
+中华英雄,#genre#
+中华傲诀1,https://v4.1080pzy.co/20220531/qyAIAjbJ/hls/index.m3u8
+中华英雄2,https://v4.1080pzy.co/20220531/zSN9lnWX/hls/index.m3u8
+中华英雄3,https://v4.1080pzy.co/20220531/iYf8PEqo/hls/index.m3u8
+中华英雄4,https://v4.1080pzy.co/20220531/8I4Cq9Zl/hls/index.m3u8
+中华英雄5,https://v4.1080pzy.co/20220531/5mNekILn/hls/index.m3u8
+中华英雄6,https://v4.1080pzy.co/20220531/oUCQUAQA/hls/index.m3u8
+中华英雄7,https://v4.1080pzy.co/20220531/SxYAu0rD/hls/index.m3u8
+中华英雄8,https://v4.1080pzy.co/20220531/d5vrnHhJ/hls/index.m3u8
+中华英雄9,https://v4.1080pzy.co/20220531/gAFRpiHu/hls/index.m3u8
+中华英雄10,https://v4.1080pzy.co/20220531/1s4hLNYP/hls/index.m3u8
+中华英雄11,https://v4.1080pzy.co/20220531/CE8HkqRb/hls/index.m3u8
+中华英雄12,https://v4.1080pzy.co/20220531/T1RuTXBl/hls/index.m3u8
+中华英雄13,https://v4.1080pzy.co/20220531/sTJ3Ug0f/hls/index.m3u8
+中华英雄14,https://v4.1080pzy.co/20220531/qKgTfLfT/hls/index.m3u8
+中华英雄15,https://v4.1080pzy.co/20220531/bFw3TaWt/hls/index.m3u8
+中华英雄16,https://v4.1080pzy.co/20220531/fICnoWbU/hls/index.m3u8
+中华英雄17,https://v4.1080pzy.co/20220531/0tDMTnUB/hls/index.m3u8
+中华英雄18,https://v4.1080pzy.co/20220531/HNNRyS3V/hls/index.m3u8
+中华英雄19,https://v4.1080pzy.co/20220531/uF4rkPIM/hls/index.m3u8
+中华英雄20,https://v4.1080pzy.co/20220531/yBcGAnmL/hls/index.m3u8
 
 
 日本,#genre#
