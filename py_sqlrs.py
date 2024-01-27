@@ -430,7 +430,26 @@ CCTV17,http://111.9.163.186:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&a
 甘肃卫视,http://112.6.117.141:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 
 央视联通,#genre#
-
+CCTV-1,http://113.57.150.190:9000/tsfile/live/0001_1.m3u8
+CCTV-2,http://113.57.150.190:9000/tsfile/live/0002_1.m3u8
+CCTV-3,http://113.57.150.190:9000/tsfile/live/0003_1.m3u8
+CCTV-4,http://113.57.150.190:9000/tsfile/live/0004_1.m3u8
+CCTV-5,http://113.57.150.190:9000/tsfile/live/0005_1.m3u8
+CCTV-6,http://113.57.150.190:9000/tsfile/live/0006_1.m3u8
+CCTV-7,http://113.57.150.190:9000/tsfile/live/0007_1.m3u8
+CCTV-8,http://113.57.150.190:9000/tsfile/live/0008_1.m3u8
+CCTV-9,http://113.57.150.190:9000/tsfile/live/0009_1.m3u8
+CCTV-10,http://113.57.150.190:9000/tsfile/live/0010_1.m3u8
+CCTV-11,http://113.57.150.190:9000/tsfile/live/0011_1.m3u8
+CCTV-12,http://113.57.150.190:9000/tsfile/live/0012_1.m3u8
+CCTV-13,http://113.57.150.190:9000/tsfile/live/0013_1.m3u8
+CCTV-14,http://113.57.150.190:9000/tsfile/live/0014_1.m3u8
+CCTV-15,http://113.57.150.190:9000/tsfile/live/0015_1.m3u8
+CCTV-17,http://113.57.150.190:9000/tsfile/live/0019_1.m3u8
+CCTV第一剧场,http://113.57.150.190:9000/tsfile/live/1012_1.m3u8
+CCTV风云足球,http://113.57.150.190:9000/tsfile/live/1019_1.m3u8
+CCTV怀旧剧场,http://113.57.150.190:9000/tsfile/live/1020_1.m3u8
+CETV,http://113.57.150.190:9000/tsfile/live/1018_1.m3u8
 
 卫视联通,#genre#
 
@@ -465,6 +484,124 @@ CCTV17,http://111.9.163.186:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&a
 西藏卫视,http://112.245.59.7:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://112.245.59.7:50085/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://112.245.59.7:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://113.57.150.190:9000/tsfile/live/0107_1.m3u8
+北京卫视,http://113.57.150.190:9000/tsfile/live/1017_1.m3u8
+天津卫视,http://113.57.150.190:9000/tsfile/live/1016_1.m3u8
+辽宁卫视,http://113.57.150.190:9000/tsfile/live/0121_1.m3u8
+四川卫视,http://113.57.150.190:9000/tsfile/live/0123_1.m3u8
+浙江卫视,http://113.57.150.190:9000/tsfile/live/0124_1.m3u8
+广东卫视,http://113.57.150.190:9000/tsfile/live/0125_1.m3u8
+江苏卫视,http://113.57.150.190:9000/tsfile/live/0127_1.m3u8
+湖南卫视,http://113.57.150.190:9000/tsfile/live/0128_1.m3u8
+安徽卫视,http://113.57.150.190:9000/tsfile/live/0130_1.m3u8
+湖北卫视,http://113.57.150.190:9000/tsfile/live/0132_1.m3u8
+东南卫视,http://113.57.150.190:9000/tsfile/live/0137_1.m3u8
+江西卫视,http://113.57.150.190:9000/tsfile/live/0138_1.m3u8
+重庆卫视,http://113.57.150.190:9000/tsfile/live/0142_1.m3u8
+金鹰卡通,http://113.57.150.190:9000/tsfile/live/1000_1.m3u8
+北京少儿,http://113.57.150.190:9000/tsfile/live/1001_1.m3u8
+CGTN,http://113.57.150.190:9000/tsfile/live/1002_1.m3u8
+宁夏卫视,http://113.57.150.190:9000/tsfile/live/1003_1.m3u8
+广西卫视,http://113.57.150.190:9000/tsfile/live/1004_1.m3u8
+海南卫视,http://113.57.150.190:9000/tsfile/live/1005_1.m3u8
+河南卫视,http://113.57.150.190:9000/tsfile/live/1006_1.m3u8
+吉林卫视,http://113.57.150.190:9000/tsfile/live/1007_1.m3u8
+黑龙江卫视,http://113.57.150.190:9000/tsfile/live/1008_1.m3u8
+山西卫视,http://113.57.150.190:9000/tsfile/live/1009_1.m3u8
+云南卫视,http://113.57.150.190:9000/tsfile/live/1010_1.m3u8
+贵州卫视,http://113.57.150.190:9000/tsfile/live/1011_1.m3u8
+陕西卫视,http://113.57.150.190:9000/tsfile/live/1013_1.m3u8
+青海卫视,http://113.57.150.190:9000/tsfile/live/1014_1.m3u8
+深圳卫视,http://113.57.150.190:9000/tsfile/live/1015_1.m3u8
+
+山东电信
+CCTV1-综合,http://182.46.196.231:9901/tsfile/live/0001_1.m3u8
+CCTV2-财经,http://182.46.196.231:9901/tsfile/live/0002_1.m3u8
+CCTV3-综艺,http://182.46.196.231:9901/tsfile/live/0003_1.m3u8
+CCTV4-国际,http://182.46.196.231:9901/tsfile/live/0004_1.m3u8
+CCTV5-体育,http://182.46.196.231:9901/tsfile/live/0005_1.m3u8
+CCTV5+高清,http://182.46.196.231:9901/tsfile/live/1000_1.m3u8
+CCTV6-电影,http://182.46.196.231:9901/tsfile/live/0006_1.m3u8
+CCTV7-军农,http://182.46.196.231:9901/tsfile/live/0007_1.m3u8
+CCTV8-电视剧,http://182.46.196.231:9901/tsfile/live/0008_1.m3u8
+CCTV9-纪录,http://182.46.196.231:9901/tsfile/live/0009_1.m3u8
+CCTV10-科教,http://182.46.196.231:9901/tsfile/live/0010_1.m3u8
+CCTV11-戏曲,http://182.46.196.231:9901/tsfile/live/0012_1.m3u8
+CCTV12-社会与法,http://182.46.196.231:9901/tsfile/live/0012_2.m3u8
+CCTV13-新闻,http://182.46.196.231:9901/tsfile/live/0014_1.m3u8
+CCTV14-少儿,http://182.46.196.231:9901/tsfile/live/0015_1.m3u8
+CCTV15-音乐,http://182.46.196.231:9901/tsfile/live/0015_2.m3u8
+CCTV17,http://182.46.196.231:9901/tsfile/live/0019_1.m3u8
+山东齐鲁,http://182.46.196.231:9901/tsfile/live/1001_1.m3u8
+山东文旅,http://182.46.196.231:9901/tsfile/live/1002_1.m3u8
+山东生活,http://182.46.196.231:9901/tsfile/live/1003_1.m3u8
+山东综艺,http://182.46.196.231:9901/tsfile/live/1004_1.m3u8
+山东体育,http://182.46.196.231:9901/tsfile/live/1005_1.m3u8
+山东新闻,http://182.46.196.231:9901/tsfile/live/1006_1.m3u8
+山东农科,http://182.46.196.231:9901/tsfile/live/1007_1.m3u8
+山东少儿,http://182.46.196.231:9901/tsfile/live/1008_1.m3u8
+山东卫视,http://182.46.196.231:9901/tsfile/live/0131_1.m3u8
+湖南卫视,http://182.46.196.231:9901/tsfile/live/0128_1.m3u8
+江苏卫视,http://182.46.196.231:9901/tsfile/live/0127_1.m3u8
+浙江卫视,http://182.46.196.231:9901/tsfile/live/0124_1.m3u8
+北京高清,http://182.46.196.231:9901/tsfile/live/1009_1.m3u8
+东方卫视,http://182.46.196.231:9901/tsfile/live/0107_1.m3u8
+安徽卫视,http://182.46.196.231:9901/tsfile/live/0130_1.m3u8
+湖北卫视,http://182.46.196.231:9901/tsfile/live/0132_1.m3u8
+天津卫视,http://182.46.196.231:9901/tsfile/live/0135_1.m3u8
+广东卫视,http://182.46.196.231:9901/tsfile/live/0125_1.m3u8
+黑龙江卫视,http://182.46.196.231:9901/tsfile/live/0143_1.m3u8
+东南卫视,http://182.46.196.231:9901/tsfile/live/0137_1.m3u8
+河南卫视,http://182.46.196.231:9901/tsfile/live/0139_1.m3u8
+江西卫视,http://182.46.196.231:9901/tsfile/live/0138_1.m3u8
+CHC家庭影院,http://182.46.196.231:9901/tsfile/live/1010_1.m3u8
+CHC动作电影,http://182.46.196.231:9901/tsfile/live/1011_1.m3u8
+CHC高清电影,http://182.46.196.231:9901/tsfile/live/1012_1.m3u8
+
+
+
+湖北联通▣,#genre#
+
+CCTV1综合,http://58.19.13.92:9901/tsfile/live/1000_1.m3u8?key=txiptv
+CCTV2财*,http://58.19.13.92:9901/tsfile/live/1001_1.m3u8?key=txiptv
+CCTV3综艺,http://58.19.13.92:9901/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV4中文国际,http://58.19.13.92:9901/tsfile/live/1003_1.m3u8?key=txiptv
+CCTV5体育,http://58.19.13.92:9901/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV6电影,http://58.19.13.92:9901/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV7国防军事,http://58.19.13.92:9901/tsfile/live/1006_1.m3u8?key=txiptv
+CCTV8电视剧,http://58.19.13.92:9901/tsfile/live/1007_1.m3u8?key=txiptv
+CCTV9纪录,http://58.19.13.92:9901/tsfile/live/1008_1.m3u8?key=txiptv
+CCTV10科教,http://58.19.13.92:9901/tsfile/live/1009_1.m3u8?key=txiptv
+CCTV11戏曲,http://58.19.13.92:9901/tsfile/live/1010_1.m3u8?key=txiptv
+CCTV12社会与法,http://58.19.13.92:9901/tsfile/live/1011_1.m3u8?key=txiptv
+CCTV13新闻,http://58.19.13.92:9901/tsfile/live/1012_1.m3u8?key=txiptv
+CCTV14少儿,http://58.19.13.92:9901/tsfile/live/1013_1.m3u8?key=txiptv
+CCTV15音乐,http://58.19.13.92:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV5P,http://58.19.13.92:9901/tsfile/live/1014_1.m3u8?key=txiptv
+湖北卫视,http://58.19.13.92:9901/tsfile/live/1015_1.m3u8?key=txiptv
+湖南卫视,http://58.19.13.92:9901/tsfile/live/1016_1.m3u8?key=txiptv
+北京卫视,http://58.19.13.92:9901/tsfile/live/1017_1.m3u8?key=txiptv
+东方卫视,http://58.19.13.92:9901/tsfile/live/1018_1.m3u8?key=txiptv
+江苏卫视,http://58.19.13.92:9901/tsfile/live/1019_1.m3u8?key=txiptv
+浙江卫视,http://58.19.13.92:9901/tsfile/live/1020_1.m3u8?key=txiptv
+安徽卫视,http://58.19.13.92:9901/tsfile/live/1021_1.m3u8?key=txiptv
+广东卫视,http://58.19.13.92:9901/tsfile/live/1022_1.m3u8?key=txiptv
+深圳卫视,http://58.19.13.92:9901/tsfile/live/1023_1.m3u8?key=txiptv
+天津卫视,http://58.19.13.92:9901/tsfile/live/1024_1.m3u8?key=txiptv
+山东卫视,http://58.19.13.92:9901/tsfile/live/1025_1.m3u8?key=txiptv
+河南卫视,http://58.19.13.92:9901/tsfile/live/1026_1.m3u8?key=txiptv
+辽宁卫视,http://58.19.13.92:9901/tsfile/live/1027_1.m3u8?key=txiptv
+东南卫视,http://58.19.13.92:9901/tsfile/live/1028_1.m3u8?key=txiptv
+江西卫视,http://58.19.13.92:9901/tsfile/live/1029_1.m3u8?key=txiptv
+贵州卫视,http://58.19.13.92:9901/tsfile/live/1030_1.m3u8?key=txiptv
+金鹰卡通,http://58.19.13.92:9901/tsfile/live/1031_1.m3u8?key=txiptv
+金鹰纪实,http://58.19.13.92:9901/tsfile/live/1032_1.m3u8?key=txiptv
+快乐垂钓,http://58.19.13.92:9901/tsfile/live/1033_1.m3u8?key=txiptv
+风云足球,http://58.19.13.92:9901/tsfile/live/1034_1.m3u8?key=txiptv
+第一剧场,http://58.19.13.92:9901/tsfile/live/1035_1.m3u8?key=txiptv
+CHC家庭影院,http://58.19.13.92:9901/tsfile/live/1036_1.m3u8?key=txiptv
+CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8?key=txiptv
+CHC高清电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8?key=txiptv
 
 数字频道,#genre#
 第一剧场,http://223.100.63.144:880/dx103.m3u8
@@ -517,6 +654,7 @@ CHC高清电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 电竞天堂,http://171.214.202.74:4000/udp/239.93.1.135:5140
 游戏风云,http://171.214.202.74:4000/udp/239.93.0.136:5140
 汽车频道,http://171.214.202.74:4000/udp/239.93.0.117:1292
+，
 足球,http://171.214.202.74:4000/udp/239.93.0.197:9040
 高网,http://171.214.202.74:4000/udp/239.93.0.202:9068
 台球,http://171.214.202.74:4000/udp/239.93.0.203:9072
@@ -535,6 +673,58 @@ CGTN法语,http://171.214.202.74:4000/udp/239.93.42.50:5140
 每日影院,http://171.214.202.74:4000/udp/239.93.42.35:5140
 金鹰纪实,http://58.19.13.92:9901/tsfile/live/1032_1.m3u8
 快乐垂钓,http://58.19.13.92:9901/tsfile/live/1033_1.m3u8
+，
+欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+欧洲华文3台,http://vvlive.eztv.vip/huawen3/huawen3.m3u8?auth_key=1662526194-0-0-bd423d5873e9ca964a4455f398d608b2
+欧洲华文4台,http://vvlive.eztv.vip/huawen4/huawen4.m3u8?auth_key=1662526280-0-0-7802d0701f6974b3db6f0d5c09542402
+欧洲华文5台,https://livees.cgtn.com/1000e/prog_index.m3u8
+欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+百视TV,https://bp-caster.bestv.com.cn/926/3/video.m3u8
+百视TV独播,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+BesTV,https://bp-caster.bestv.com.cn/953/3/video.m3u8
+IPTV收视指南,http://www.zzmd.fun:8888/rtp/239.3.1.193:8012
+IPTV热播剧场,http://www.zzmd.fun:8888/rtp/239.3.1.194:9020
+IPTV经典电影,http://www.zzmd.fun:8888/rtp/239.3.1.195:9024
+IPTV魅力时尚,http://www.zzmd.fun:8888/rtp/239.3.1.196:9012
+IPTV少儿动画,http://www.zzmd.fun:8888/rtp/239.3.1.199:9000
+，
+爱上4K,http://www.zzmd.fun:8888/rtp/239.3.1.236:2000
+大健康,http://www.zzmd.fun:8888/rtp/239.3.1.251:8001
+晴采竞技,http://www.zzmd.fun:8888/rtp/239.3.1.125:8001
+晴采篮球,http://www.zzmd.fun:8888/rtp/239.3.1.126:8001
+晴采羽毛球,http://www.zzmd.fun:8888/rtp/239.3.1.127:8001
+晴采广场舞,http://www.zzmd.fun:8888/rtp/239.3.1.128:8001
+城市剧场,http://www.zzmd.fun:8888/rtp/239.3.1.67:4120
+军旅剧场,http://www.zzmd.fun:8888/rtp/239.3.1.68:4120
+古装剧场,http://www.zzmd.fun:8888/rtp/239.3.1.69:4120
+音乐现场,http://www.zzmd.fun:8888/rtp/239.3.1.70:4120
+，
+地理,http://www.zzmd.fun:8888/rtp/239.3.1.71:4120
+美妆,http://www.zzmd.fun:8888/rtp/239.3.1.72:4120
+健康,http://www.zzmd.fun:8888/rtp/239.3.1.73:4120
+精选,http://www.zzmd.fun:8888/rtp/239.3.1.74:4120
+解,http://www.zzmd.fun:8888/rtp/239.3.1.75:4120
+军事,http://www.zzmd.fun:8888/rtp/239.3.1.76:4120
+国学,http://www.zzmd.fun:8888/rtp/239.3.1.77:4120
+戏曲,http://www.zzmd.fun:8888/rtp/239.3.1.78:4120
+早教,http://www.zzmd.fun:8888/rtp/239.3.1.79:4120
+动画,http://www.zzmd.fun:8888/rtp/239.3.1.80:4120
+好学生,http://www.zzmd.fun:8888/rtp/239.3.1.81:4120
+鉴赏,http://www.zzmd.fun:8888/rtp/239.3.1.82:4120
+墨宝,http://www.zzmd.fun:8888/rtp/239.3.1.83:4120
+光影,http://www.zzmd.fun:8888/rtp/239.3.1.84:4120
+台球,http://www.zzmd.fun:8888/rtp/239.3.1.85:4120
+爱生活,http://www.zzmd.fun:8888/rtp/239.3.1.86:4120
+武术,http://www.zzmd.fun:8888/rtp/239.3.1.87:4120
+高网,http://www.zzmd.fun:8888/rtp/239.3.1.88:4120
+足球,http://www.zzmd.fun:8888/rtp/239.3.1.89:4120
+武侠剧场,http://www.zzmd.fun:8888/rtp/239.3.1.90:4120
+喜剧影院,http://www.zzmd.fun:8888/rtp/239.3.1.91:4120
+动作影院,http://www.zzmd.fun:8888/rtp/239.3.1.92:4120
+家庭影院,http://www.zzmd.fun:8888/rtp/239.3.1.93:4120
+星影,http://www.zzmd.fun:8888/rtp/239.3.1.94:4120
+，
 广东体育,http://170.178.177.98:27347/livehttpplay?channel_id=20130
 广东体育,http://170.178.177.98:27347/livehttpplay?channel_id=30031
 广东体育,http://170.178.177.99:27347/livehttpplay?channel_id=20130
@@ -545,7 +735,18 @@ CGTN法语,http://171.214.202.74:4000/udp/239.93.42.50:5140
 广东体育,http://170.178.177.101:27347/livehttpplay?channel_id=30031
 广东体育,http://170.178.177.102:27347/livehttpplay?channel_id=20130
 广东体育,http://170.178.177.102:27347/livehttpplay?channel_id=30031
+，
 
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
+CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 IHOT,#genre#
 爱怀旧,http://171.214.202.74:4000/udp/239.93.42.21:5140
@@ -622,76 +823,9 @@ IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571182
 天映頻道,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683142
 天映频道,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=683142
-天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=683110凤凰中文,http://170.178。177.98:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=30014
-凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=20066
-凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
-凤凰中文,http://170.178.177.98:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.99:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.99:27347/livehttpplay?channel_id=30014
-凤凰中文,http://170.178.177.100:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.100:27347/livehttpplay?channel_id=30014
-凤凰中文,http://170.178.177.101:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.101:27347/livehttpplay?channel_id=30014
-凤凰中文,http://170.178.177.102:27347/livehttpplay?channel_id=20065
-凤凰中文,http://170.178.177.102:27347/livehttpplay?channel_id=30014
-凤凰资讯,http://170.178.177.99:27347/livehttpplay?channel_id=20066
-凤凰资讯,http://170.178.177.99:27347/livehttpplay?channel_id=30015
-凤凰资讯,http://170.178.177.100:27347/livehttpplay?channel_id=20066
-凤凰资讯,http://170.178.177.100:27347/livehttpplay?channel_id=30015
-凤凰资讯,http://170.178.177.101:27347/livehttpplay?channel_id=20066
-凤凰资讯,http://170.178.177.101:27347/livehttpplay?channel_id=30015
-凤凰资讯,http://170.178.177.102:27347/livehttpplay?channel_id=20066
-凤凰资讯,http://170.178.177.102:27347/livehttpplay?channel_id=30015
-无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.98:27347/livehttpplay?channel_id=30024
-无线新闻,http://170.178.177.99:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.99:27347/livehttpplay?channel_id=30024
-无线新闻,http://170.178.177.100:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.100:27347/livehttpplay?channel_id=30024
-无线新闻,http://170.178.177.101:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.101:27347/livehttpplay?channel_id=30024
-无线新闻,http://170.178.177.102:27347/livehttpplay?channel_id=20123
-无线新闻,http://170.178.177.102:27347/livehttpplay?channel_id=30024
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
-明珠台,http://170.178.177.99:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.99:27347/livehttpplay?channel_id=30026
-明珠台,http://170.178.177.100:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.100:27347/livehttpplay?channel_id=30026
-明珠台,http://170.178.177.101:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.101:27347/livehttpplay?channel_id=30026
-明珠台,http://170.178.177.102:27347/livehttpplay?channel_id=20125
-明珠台,http://170.178.177.102:27347/livehttpplay?channel_id=30026
-ViuTVsix,http://170.178.177.98:27347/livehttpplay?channel_id=20132
-ViuTVsix,http://170.178.177.98:27347/livehttpplay?channel_id=30033
-ViuTVsix,http://170.178.177.99:27347/livehttpplay?channel_id=20132
-ViuTVsix,http://170.178.177.99:27347/livehttpplay?channel_id=30033
-ViuTVsix,http://170.178.177.100:27347/livehttpplay?channel_id=20132
-ViuTVsix,http://170.178.177.100:27347/livehttpplay?channel_id=30033
-ViuTVsix,http://170.178.177.101:27347/livehttpplay?channel_id=20132
-ViuTVsix,http://170.178.177.101:27347/livehttpplay?channel_id=30033
-ViuTVsix,http://170.178.177.102:27347/livehttpplay?channel_id=20132
-ViuTVsix,http://170.178.177.102:27347/livehttpplay?channel_id=30033
+天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=683110
 
 无线财经资讯,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-HOY 76,http://170.178.177.98:27347/livehttpplay?channel_id=30037
-HHOY 76,http://170.178.177.99:27347/livehttpplay?channel_id=30037
-HOY 76,http://170.178.177.100:27347/livehttpplay?channel_id=30037
-HOY 76,http://170.178.177.101:27347/livehttpplay?channel_id=30037
-HOY 76,http://170.178.177.102:27347/livehttpplay?channel_id=30037
-ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
-ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
-
-马来欢喜,http://141.95.85.201:6666/livehttpplay?channel_id=10123
-马来华丽,http://141.95.85.201:6666/livehttpplay?channel_id=10125
-爆谷台,http://141.95.85.201:6666/livehttpplay?channel_id=10126
-马来全佳,http://141.95.85.201:6666/livehttpplay?channel_id=10127
-马来太阳,http://141.95.85.201:6666/livehttpplay?channel_id=10128
-马来双星,http://141.95.85.201:6666/livehttpplay?channel_id=10129
-天映频道,http://141.95.85.201:6666/livehttpplay?channel_id=10130
-博斯运动,http://141.95.85.201:6666/livehttpplay?channel_id=10131
-新加坡8台,http://141.95.85.201:6666/livehttpplay?channel_id=10132
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 东森中国,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=156393
 东森戏剧,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156395
@@ -702,124 +836,25 @@ HBO FAMILY,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&ext
 新时代电视2台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=90352
 美国城市卫星,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=156401
 华夏电视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=m3u8&stream=156422
-凤凰中文,http://141.95.85.201:6666/livehttpplay?channel_id=20065
-凤凰中文,http://141.95.85.201:6666/livehttpplay?channel_id=30014
-凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=20066
-凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30015
-凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=20067
-凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=30016
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20124
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=30025
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026
-星河频道,http://51.77.65.194:27347/livehttpplay?channel_id=20070
-TVB J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122
-TVB J2,http://141.95.85.201:6666/livehttpplay?channel_id=30023
-TVB J2,http://141.95.85.201:6666/livehttpplay?channel_id=30030
-无线新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20123
-无线新闻,http://141.95.85.201:6666/livehttpplay?channel_id=30024
-无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=20121
-无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=30022
-无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=30019
-Now 新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20041
-HOY 77台,http://141.95.85.201:6666/livehttpplay?channel_id=20152
-HOY 78台,http://141.95.85.201:6666/livehttpplay?channel_id=20191
-ViuTV,http://141.95.85.201:6666/livehttpplay?channel_id=20131
-ViuTV,http://141.95.85.201:6666/livehttpplay?channel_id=30032
-ViuTVsix,http://141.95.85.201:6666/livehttpplay?channel_id=20132
-ViuTVsix,http://141.95.85.201:6666/livehttpplay?channel_id=30033
-港台电视31,http://141.95.85.201:6666/livehttpplay?channel_id=20203
-港台电视31,http://141.95.85.201:6666/livehttpplay?channel_id=30066
-港台电视32,http://141.95.85.201:6666/livehttpplay?channel_id=30028
-港台电视32,http://141.95.85.201:6666/livehttpplay?channel_id=30067
-美亚电影,http://141.95.85.201:6666/livehttpplay?channel_id=20197
-星河频道,http://141.95.85.201:6666/livehttpplay?channel_id=20070
-澳视澳门,http://141.95.85.201:6666/livehttpplay?channel_id=13061
-澳视葡文,http://141.95.85.201:6666/livehttpplay?channel_id=13062
-澳视体育,http://141.95.85.201:6666/livehttpplay?channel_id=13063
 
 
-台湾省,#genre#
-美国中文电视,http://141.95.85.201:6666/livehttpplay?channel_id=10128
-Channel 8,http://141.95.85.201:6666/livehttpplay?channel_id=10132
-ELTA综合,http://141.95.85.201:6666/livehttpplay?channel_id=16076
-TVBS欢乐,http://141.95.85.201:6666/livehttpplay?channel_id=20105
-TVBS精彩,http://141.95.85.201:6666/livehttpplay?channel_id=20136
-TVBS新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20165
-八大精彩,http://141.95.85.201:6666/livehttpplay?channel_id=20052
-八大娱乐,http://141.95.85.201:6666/livehttpplay?channel_id=20071
-八大综合,http://141.95.85.201:6666/livehttpplay?channel_id=20075
-东森财经,http://141.95.85.201:6666/livehttpplay?channel_id=20078
-东森戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=20072
-东森新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20082
-东森综合,http://141.95.85.201:6666/livehttpplay?channel_id=20104
-非凡新聞,http://141.95.85.201:6666/livehttpplay?channel_id=20034
-公视,http://141.95.85.201:6666/livehttpplay?channel_id=20087
-国兴卫视,http://141.95.85.201:6666/livehttpplay?channel_id=20164
-华视,http://141.95.85.201:6666/livehttpplay?channel_id=20086
-寰宇新闻台湾台,http://141.95.85.201:6666/livehttpplay?channel_id=20196
-靖天电影,http://141.95.85.201:6666/livehttpplay?channel_id=12037
-靖天欢乐,http://141.95.85.201:6666/livehttpplay?channel_id=30021
-靖天日本,http://141.95.85.201:6666/livehttpplay?channel_id=16077
-靖天育乐,http://141.95.85.201:6666/livehttpplay?channel_id=30020
-卡通频道,http://141.95.85.201:6666/livehttpplay?channel_id=20048
-民视,http://141.95.85.201:6666/livehttpplay?channel_id=20074
-年代新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20033
-三立都会,http://141.95.85.201:6666/livehttpplay?channel_id=20100
-三立台湾,http://141.95.85.201:6666/livehttpplay?channel_id=16074
-三立新闻,http://141.95.85.201:6666/livehttpplay?channel_id=10126
-三立综合,http://141.95.85.201:6666/livehttpplay?channel_id=12038
-台视,http://141.95.85.201:6666/livehttpplay?channel_id=20076
-台视,http://141.95.85.201:6666/livehttpplay?channel_id=20314
-纬来育乐,http://141.95.85.201:6666/livehttpplay?channel_id=20202
-纬来综合,http://141.95.85.201:6666/livehttpplay?channel_id=20201
-壹新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20028
-中视,http://141.95.85.201:6666/livehttpplay?channel_id=20088
-中天娱乐,http://141.95.85.201:6666/livehttpplay?channel_id=20079
-中天综合,http://141.95.85.201:6666/livehttpplay?channel_id=20064
+
 
 
 体育频道,#genre#
-五星体育,http://141.95.85.201:6666/livehttpplay?channel_id=20060
-广东体育,http://141.95.85.201:6666/livehttpplay?channel_id=20130
-广东体育,http://141.95.85.201:6666/livehttpplay?channel_id=30031
-广东体育,http://141.95.85.201:6666/livehttpplay?channel_id=12028
-爱尔达体育1,http://141.95.85.201:6666/livehttpplay?channel_id=20129
-爱尔达体育2,http://141.95.85.201:6666/livehttpplay?channel_id=20107
-博斯高球1,http://141.95.85.201:6666/livehttpplay?channel_id=20103
-博斯高球2,http://141.95.85.201:6666/livehttpplay?channel_id=20117
-博斯运动1,http://141.95.85.201:6666/livehttpplay?channel_id=10131
-博斯运动2,http://141.95.85.201:6666/livehttpplay?channel_id=20311
-ELEVEN SPORTS 1,http://141.95.85.201:6666/livehttpplay?channel_id=10104
-ELEVEN SPORTS 2,http://141.95.85.201:6666/livehttpplay?channel_id=10105
-纬来体育,http://141.95.85.201:6666/livehttpplay?channel_id=20120
-纬来日本,http://141.95.85.201:6666/livehttpplay?channel_id=20303
-Big Ten Network,http://141.95.85.201:6666/livehttpplay?channel_id=13037
-ESPN US,http://141.95.85.201:6666/livehttpplay?channel_id=13030
-ESPN 2 US,http://141.95.85.201:6666/livehttpplay?channel_id=13031
-ESPN U US,http://141.95.85.201:6666/livehttpplay?channel_id=13032
-ESPN NEWS,http://141.95.85.201:6666/livehttpplay?channel_id=13036
-FOX SPORTS 1 HD US,http://141.95.85.201:6666/livehttpplay?channel_id=13033
-FOX SPORTS 2 HD US,http://141.95.85.201:6666/livehttpplay?channel_id=13034
-HBO FAMILY WEST,http://141.95.85.201:6666/livehttpplay?channel_id=13042
-HBO WEST,http://141.95。85.201:6666/livehttpplay?channel_id=13038
-HBO2 WEST,http://141.95.85.201:6666/livehttpplay?channel_id=13039
-BT SPORTS 1 test[1024*576],http://141.95.85.201:6666/livehttpplay?channel_id=13040
-BT SPORTS 2 test,http://141.95.85.201:6666/livehttpplay?channel_id=13041
-BT SPORTS 3 test,http://141.95.85.201:6666/livehttpplay?channel_id=13043
-SKY Main Event test,http://141.95.85.201:6666/livehttpplay?channel_id=13044
-ACTION MAX,http://141.95.85.201:6666/livehttpplay?channel_id=13048
-CINE MAX EAST,http://141.95.85.201:6666/livehttpplay?channel_id=13045
-MORE MAX,http://141.95.85.201:6666/livehttpplay?channel_id=13047
-MOVIE MAX,http://141.95.85.201:6666/livehttpplay?channel_id=13050
-HKN 英超CH622,http://141.95.85.201:6666/livehttpplay?channel_id=13007
-HKN 英超CH623,http://141.95.85.201:6666/livehttpplay?channel_id=13008
-HKN 英超CH624,http://141.95.85.201:6666/livehttpplay?channel_id=13009
-HKN 英超CH625,http://141.95.85.201:6666/livehttpplay?channel_id=13010
-HKN 英超CH626,http://141.95.85.201:6666/livehttpplay?channel_id=13011
 HKN Sports Premier League 1,http://141.95.85.201:6666/livehttpplay?channel_id=13012
-
+TNT Sports1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNT Sports2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+国外赛事3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNT Sports4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+国外赛事5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
+美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
 
 少儿频道,#genre#
 卡酷动画,http://171.214.202.74:4000/udp/239.93.0.208:5140
@@ -834,6 +869,8 @@ HKN Sports Premier League 1,http://141.95.85.201:6666/livehttpplay?channel_id=13
 尼克动画,http://141.95.85.201:6666/livehttpplay?channel_id=20089
 靖天卡通,http://141.95.85.201:6666/livehttpplay?channel_id=16072
 momo亲子台,http://141.95.85.201:6666/livehttpplay?channel_id=16085
+
+
 经典动画,#genre#
 龙珠影院版,https://vdse.bdstatic.com//2e41b3437d2bd19344cfc4de046f4b3e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-12-21T08%3A00%3A51Z%2F-1%2Fhost%2F3b08e917ad73d27553e44e040d83b0065be04e53785fbf8da9a911f7cca1c218
 小猪佩奇1,https://vdse.bdstatic.com//0d83645af45d190d63444f7226608308.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-12-19T06%3A16%3A09Z%2F-1%2Fhost%2F0bd0c89e949d35dc1b2e47e209c2c1841e3b1a3819b66b63ecf10a02ce7e8d9d
@@ -850,16 +887,22 @@ momo亲子台,http://141.95.85.201:6666/livehttpplay?channel_id=16085
 黑猫警长,https://vd3.bdstatic.com/mda-jgkmq8rtyhs4q6jv/mda-jgkmq8rtyhs4q6jv.mp4?pd=19&vt=1
 葫芦小金刚,https://vdse.bdstatic.com//e6cdf0d5dc858535c0d577fc827ed963.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-12-18T15%3A17%3A27Z%2F-1%2Fhost%2F93bc6e5c15f68f7b1b591eda5add26822cac72c5dc1de1d745dc8ceb0e7ceb1b
 
-科学探索,#genre#
-BBC地球,http://141.95.85.201:6666/livehttpplay?channel_id=20044
-国家地理,http://141.95.85.201:6666/livehttpplay?channel_id=20037
-动物星球,http://141.95.85.201:6666/livehttpplay?channel_id=20106
-探索世界,http://51.77.65.194:27347/livehttpplay?channel_id=20110
-探索亚洲,http://51.77.65.194:27347/livehttpplay?channel_id=20113
-龙祥时代,http://51.77.65.194:27347/livehttpplay?channel_id=20114
-探索科学,http://51.77.65.194:27347/livehttpplay?channel_id=20115
 
 娱乐频道,#genre#
+封神 朝歌风云,https://lf6-douyin-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/ogZjygANKAzoQUAOExAABJ3MNGfRsh2hoAzcNA
+绝地追击,https://vip.ffzy-online6.com/20230923/18977_8858015e/2000k/hls/index.m3u8
+消失的她,https://lf9-xigua-ckv-tos.pstatp.com/obj/tos-cn-i-siecs4i2o7/o41osyAQdDJhAydQgAAAiPWtrTdQjfEzAhBBNG
+明日战记 粤语,https://vip.lzcdn2.com/20221130/22820_09be4d48/index.m3u8
+孤注一掷清晰版,https://.ijycnd.com/play/zbqmMMkb/index.m3u8
+画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
+笑八仙,https://vip2.49zyvideoplayurl.com/20230816/LdxMtK9F/index.m3u8
+情人看刀,https://leshiyuncdn.ahjunqin.top/20231215/Ao84177K/index.m3u8
+午夜兰花,https://v.cdnlz17.com/20231005/28304_4580e79a/index.m3u8
+群星会,https://vip.ffzy-online1.com/20230612/41218_c203f882/index.m3u8
+醉拳3,https://vip.lzcdn2.com/20220528/7719_845dbb4a/index.m3u8
+楚留香大结局,https://v.cdnlz17.com/20231005/28306_58067765/index.m3u8
+名剑,https://vip.lzcdn2.com/20220406/2277_805525b4/index.m3u8
+上海滩电影版,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 孤注一掷(超),https://cdn20.vip-yzzyonline.com/20231006/238_3bd7457a/index.m3u8
 男妇女主任,https://vdse.bdstatic.com//2b8f9e3fab4c2ca7dae182fa38a1e391.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-12-20T20%3A40%3A43Z%2F-1%2Fhost%2F134a9ce6fc72da0d6973d7f11d48619420ad494b9846cdf245daa6462196480f
 神鞭,http://uptt.gcwduoduo.com/v/210309/5a48865faa5b2f2f8011534567a9db13.mp4
@@ -868,29 +911,19 @@ BBC地球,http://141.95.85.201:6666/livehttpplay?channel_id=20044
 苦儿流浪记,https://vdse.bdstatic.com//5bffdb08a856fad9b80301ad3f944c40.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-12-30T11%3A30%3A24Z%2F-1%2Fhost%2F587ac5f820856831527746efb47bb41b842cb9539b602d04886d54c92e6d2adf
 霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
 三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
-HBO,http://141.95.85.201:6666/livehttpplay?channel_id=20093
-HBO family MOVIES HD,http://141.95.85.201:6666/livehttpplay?channel_id=20092
-HBO HITS HD,http://141.95.85.201:6666/livehttpplay?channel_id=20091
-东森电影,http://141.95.85.201:6666/livehttpplay?channel_id=20077
-东森洋片,http://141.95.85.201:6666/livehttpplay?channel_id=20080
-好莱坞电影,http://141.95.85.201:6666/livehttpplay?channel_id=20062
-影迷数位电影台,http://141.95.85.201:6666/livehttpplay?channel_id=10123
-纬来电影,http://141.95.85.201:6666/livehttpplay?channel_id=20199
-天映频道,http://141.95.85.201:6666/livehttpplay?channel_id=10130
-龙华电影,http://141.95.85.201:6666/livehttpplay?channel_id=10129
-龙华偶像,http://141.95.85.201:6666/livehttpplay?channel_id=20023
-龙华日韩,http://141.95.85.201:6666/livehttpplay?channel_id=20081
-龙华戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=12035
-龙华洋片,http://141.95.85.201:6666/livehttpplay?channel_id=20090
-龙祥时代,http://141.95.85.201:6666/livehttpplay?channel_id=20114
-华纳WBTV,http://141.95.85.201:6666/livehttpplay?channel_id=20112
-靖天映画,http://141.95.85.201:6666/livehttpplay?channel_id=16078
-三立戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=10125
-采昌影剧,http://141.95.85.201:6666/livehttpplay?channel_id=20141
-AXN,http://141.95.85.201:6666/livehttpplay?channel_id=12039
-CatchPlay电影台,http://141.95.85.201:6666/livehttpplay?channel_id=10127
-纬来戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=20200
+银河护卫队3,https://vip.lz-cdn1.com/20230706/21166_0cbec4fc/index.m3u8
+蚁人1原声,https://vip.lz-cdn2.com/20220517/6769_ec0edcc1/index.m3u8
+蚁人与黄蜂女：量子狂潮,https://vip.lz-cdn7.com/20230419/15451_ee8abc7c/index.m3u8
 
+
+百视电影,#genre#
+健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
+读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
+戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
+美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
+春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
+跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
+jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
 百视电影1,https://bp-caster.bestv.com.cn/88/3/video.m3u8
 百视电影2,https://bp-caster.bestv.com.cn/89/3/video.m3u8
 百视电影3,https://bp-caster.bestv.com.cn/91/3/video.m3u8
@@ -1417,6 +1450,658 @@ SING女团,https://vdse.bdstatic.com//a499dfbec34060ce0f380ea789446f07.mp4
 下一辈子不一定能够遇见你,https://vd2.bdstatic.com/mda-kj8ujzpapr4xzvak/v2-hknm//mda-kj8ujzpapr4xzvak.mp4
 雨中泪-何龙雨&邱敬婷,https://vd4.bdstatic.com/mda-kdpf37ri2kc5p1s6/v1-cae/mda-kdpf37ri2kc5p1s6.mp4
 
+美女打碟,#genre#
+你不明白 DJHouse,https://kq.bgp.68tool.com/m3u8/2023/10/14/6fc69dad2c3c7545/playlist.m3u8
+一念花开 DJ曹俊宇,https://kq.bgp.68tool.com/m3u8/2023/10/14/7ba30586c744142a/playlist.m3u8
+时光洪流 DJHouse,https://kq.bgp.68tool.com/m3u8/2023/10/14/0aec67a8a771dfc4/playlist.m3u8
+你怎么说 DJR7版,https://kq.bgp.68tool.com/m3u8/2023/10/10/2622723edafc3e8a/playlist.m3u8
+怎么会狠心伤害我 DJHouse,https://kq.bgp.68tool.com/m3u8/2023/10/04/3d3dba21010631ff/playlist.m3u8
+等不到的你 DJAh版,https://kq.bgp.68tool.com/m3u8/2023/10/01/03e32d270b20a2fa/playlist.m3u8
+忘了没有 DJHouse,https://kq.bgp.68tool.com/m3u8/2023/09/26/6f50d6822370d0b5/playlist.m3u8
+摇太阳 DJR7车载版,https://kq.bgp.68tool.com/m3u8/2023/09/26/34fc3f1ecafe537b/playlist.m3u8
+袁成杰vs戚薇 外滩18号,https://kq.bgp.68tool.com/m3u8/2023/09/24/b5802cbcb0b8fab8/playlist.m3u8
+离家的孩子 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2023/03/21/6a1bd611/playlist.m3u8
+曾经心痛 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2023/03/21/1fa781b9/playlist.m3u8
+爱海滔滔 DjPad仔车载版,https://kq.bgp.68tool.com/video/m3u8/2023/02/27/d13ed7ac/playlist.m3u8
+多远都要在一起 福乍DJ阿乐,https://kq.bgp.68tool.com/video/m3u8/2023/02/27/7330b4ff/playlist.m3u8
+三两三 DJ凯利,https://kq.bgp.68tool.com/video/m3u8/2023/02/27/c5198934/playlist.m3u8
+葛漂亮vs悦悦 想你从前 DJHouse,https://kq.bgp.68tool.com/video/m3u8/2023/02/27/4a3a1c5d/playlist.m3u8
+痴心绝对 DjPad仔车载版,https://kq.bgp.68tool.com/video/m3u8/2023/02/14/b59d8b16/playlist.m3u8
+感动天感动地 DjPad仔 车载版,https://kq.bgp.68tool.com/video/m3u8/2023/02/14/322fba69/playlist.m3u8
+有一种爱叫做放手 DjPad仔车载版,https://kq.bgp.68tool.com/video/m3u8/2023/02/14/0ca85b07/playlist.m3u8
+今夜我无法去入睡 DJ金蟾子,https://kq.bgp.68tool.com/video/m3u8/2023/02/14/497cc49a/playlist.m3u8
+听着情歌流眼泪 DJHouse,https://kq.bgp.68tool.com/video/m3u8/2023/01/10/f198c017/playlist.m3u8
+你的眼睛像星星 DJHouse,https://kq.bgp.68tool.com/video/m3u8/2023/01/06/342c280f/playlist.m3u8
+你头顶的风 DJHouse,https://kq.bgp.68tool.com/video/m3u8/2023/01/06/ed8bc3a6/playlist.m3u8
+送亲 DJ炮哥,https://kq.bgp.68tool.com/video/m3u8/2023/01/06/516bd8e5/playlist.m3u8
+不要让悲伤逆流成河 DjPad仔,https://kq.bgp.68tool.com/video/m3u8/2023/01/05/57ae9b22/playlist.m3u8
+不是因为寂寞才想你 DjDDG,https://kq.bgp.68tool.com/video/m3u8/2022/12/26/4d733c34/playlist.m3u8
+山路十八弯 DJR7车载版,https://kq.bgp.68tool.com/video/m3u8/2022/12/26/0309b79e/playlist.m3u8
+陪你看星星 DJ新,https://kq.bgp.68tool.com/video/m3u8/2022/12/24/c8363835/playlist.m3u8
+回到最初的自己 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/12/24/6b124229/playlist.m3u8
+奢香夫人 (喝酒都是人上人) DJHouse,https://kq.bgp.68tool.com/video/m3u8/2022/12/19/cba100cc/playlist.m3u8
+泡沫 DJA5,https://kq.bgp.68tool.com/video/m3u8/2022/12/19/d0ed9bd4/playlist.m3u8
+我想大声告诉你 DjDell,https://kq.bgp.68tool.com/video/m3u8/2022/11/12/61332abd/playlist.m3u8
+容易受伤的女人 DJ版,https://kq.bgp.68tool.com/video/m3u8/2022/11/12/a78dc1c1/playlist.m3u8
+九九女儿红 DJ版,https://kq.bgp.68tool.com/video/m3u8/2022/10/31/b276f1ef/playlist.m3u8
+粉红色的回忆 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/10/31/e951fd2a/playlist.m3u8
+雨夜 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/09/13/f4498e57/playlist.m3u8
+如果人生可以重来一次 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/09/13/68895392/playlist.m3u8
+企鹅 DJ桃子啊,https://kq.bgp.68tool.com/video/m3u8/2022/09/13/003b42cb/playlist.m3u8
+我是不是你最疼爱的人 DJPad仔,https://kq.bgp.68tool.com/video/m3u8/2022/09/13/4360a69b/playlist.m3u8
+我听过 DJ彭锐,https://kq.bgp.68tool.com/video/m3u8/2022/09/11/b0d207cc/playlist.m3u8
+来迟 DJ铭仔,https://kq.bgp.68tool.com/video/m3u8/2022/09/11/9dbe8ba5/playlist.m3u8
+我可以 北海DJ小曾,https://kq.bgp.68tool.com/video/m3u8/2022/09/11/b24e8731/playlist.m3u8
+对你说 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/09/11/634e37e3/playlist.m3u8
+好一点 DJLilXi,https://kq.bgp.68tool.com/video/m3u8/2022/09/06/f8a2b653/playlist.m3u8
+动起来舞起来 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/08/17/7262db3b/playlist.m3u8
+佛说不配 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/08/17/8e1109d4/playlist.m3u8
+人间烟火 DJ欧东,https://kq.bgp.68tool.com/video/m3u8/2022/08/11/5bff7dcd/playlist.m3u8
+连呼吸都是错 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/08/05/c5de2d14/playlist.m3u8
+命运靠自己努力 DJ阿远咚鼓版,https://kq.bgp.68tool.com/video/m3u8/2022/07/28/367f2a31/playlist.m3u8
+不是所有人都会值得等,https://kq.bgp.68tool.com/video/m3u8/2022/07/27/ad62a3b6/playlist.m3u8
+别人笑我太疯癫 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/07/25/8c680ca9/playlist.m3u8
+老板来碗泪流满面 DJHouse,https://kq.bgp.68tool.com/video/m3u8/2022/07/15/024b88a9/playlist.m3u8
+难道你原本就是如此的冷漠 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/07/15/6491b421/playlist.m3u8
+说好的一辈子 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/07/15/3bb48c25/playlist.m3u8
+怕醉却爱上酒 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/07/14/60e4809a/playlist.m3u8
+无心的相遇 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/07/14/fe512dc1/playlist.m3u8
+姑娘嫁给我,https://kq.bgp.68tool.com/video/m3u8/2022/07/14/b9828c73/playlist.m3u8
+说好不会再想你 DJ晓朋,https://kq.bgp.68tool.com/video/m3u8/2022/07/12/6a2cf8be/playlist.m3u8
+受了伤的狼,https://kq.bgp.68tool.com/video/m3u8/2022/07/10/9e81b319/playlist.m3u8
+天天都想梦见你 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/07/07/16ad1df2/playlist.m3u8
+爱美无罪 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2022/07/07/08b5fa6c/playlist.m3u8
+爱恨皆成空 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/07/07/732adb86/playlist.m3u8
+装疯卖傻 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/07/01/9927c207/playlist.m3u8
+星辰大海 DJ咚鼓,https://kq.bgp.68tool.com/video/m3u8/2022/07/01/1277125c/playlist.m3u8
+丹尼·翁vs蒋婴 微信情歌,https://kq.bgp.68tool.com/video/m3u8/2022/07/01/11a599ac/playlist.m3u8
+让一切化为零 DJPad仔,https://kq.bgp.68tool.com/video/m3u8/2022/06/29/25f5de50/playlist.m3u8
+放,https://kq.bgp.68tool.com/video/m3u8/2022/06/29/67844202/playlist.m3u8
+为你,https://kq.bgp.68tool.com/video/m3u8/2022/06/25/e9c8787c/playlist.m3u8
+滚滚红尘再也无你 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/06/25/5c35e59a/playlist.m3u8
+我们没在一起,https://kq.bgp.68tool.com/video/m3u8/2022/06/25/6ef2029d/playlist.m3u8
+女人街 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/06/25/edbbaf2f/playlist.m3u8
+最后 DJ余良,https://kq.bgp.68tool.com/video/m3u8/2022/06/25/ee4e5ea4/playlist.m3u8
+为了碎银几两为了三餐有汤,https://kq.bgp.68tool.com/video/m3u8/2022/06/25/a2ea8733/playlist.m3u8
+一万个我爱你 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/06/22/11f816f4/playlist.m3u8
+我是真的很在乎,https://kq.bgp.68tool.com/video/m3u8/2022/06/22/62330732/playlist.m3u8
+为情所困为爱所伤,https://kq.bgp.68tool.com/video/m3u8/2022/06/22/a6765350/playlist.m3u8
+撕心裂肺的痛 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2022/06/18/d1e891ad/playlist.m3u8
+雨夜 DJ心跳版,https://kq.bgp.68tool.com/video/m3u8/2022/06/18/58698316/playlist.m3u8
+别让爱打烊 Dj小秋,https://kq.bgp.68tool.com/video/m3u8/2022/06/13/2ca8bd45/playlist.m3u8
+生而平凡 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/06/13/f0607281/playlist.m3u8
+苍天饶过谁 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/06/13/a8dd4cee/playlist.m3u8
+别再生气了女声 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2022/06/09/6a5fb3ab/playlist.m3u8
+宠不坏的爱 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/06/09/0cf0e165/playlist.m3u8
+最后一个爱的人 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/06/09/fa4b740f/playlist.m3u8
+孤枕 DJ花哨,https://kq.bgp.68tool.com/video/m3u8/2022/06/05/af729633/playlist.m3u8
+回家卖红薯 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/06/05/9b6e7238/playlist.m3u8
+走卒 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/06/01/3281aeaf/playlist.m3u8
+半生 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/06/01/412bf880/playlist.m3u8
+欠钱的你是爷 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/06/01/ed997573/playlist.m3u8
+爱情这杯酒又把我灌醉 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/06/01/9a3cbf28/playlist.m3u8
+离开你我只想哭 DJ小刚,https://kq.bgp.68tool.com/video/m3u8/2022/06/01/d419eafa/playlist.m3u8
+被爱的人先走 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/30/259d76b1/playlist.m3u8
+一个俗人 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/05/30/8b984e4c/playlist.m3u8
+痴情的人都活该 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/26/2599ef34/playlist.m3u8
+后悔当初没把你挽留 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/05/24/18dd448f/playlist.m3u8
+大东北我的家乡 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/05/24/2fb9ff56/playlist.m3u8
+错过了你的温柔 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/05/24/31dbd017/playlist.m3u8
+陪我喝醉 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/05/21/ec82b975/playlist.m3u8
+真心换冷漠 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2022/05/19/7daf6b82/playlist.m3u8
+走在人生的路口 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/19/66e467de/playlist.m3u8
+飞鸟和蝉 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2022/05/19/24be86c8/playlist.m3u8
+酒 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/05/18/cd4c4a6f/playlist.m3u8
+人生悟 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/18/07fb5cb4/playlist.m3u8
+归来仍少年 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/05/18/1a2b45c4/playlist.m3u8
+小芳呀小芳 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/3d395335/playlist.m3u8
+我愿 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/d4f3c150/playlist.m3u8
+吹不散的乌云 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/d618d30a/playlist.m3u8
+不要问我过得好不好 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/5742b9be/playlist.m3u8
+江智民vs周虹 在心里从此永远有个你 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/0f154505/playlist.m3u8
+遇见你就是上上签 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/ef31432e/playlist.m3u8
+无心的相遇 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/29fee9a5/playlist.m3u8
+有钱难买孟婆汤 DJ光年,https://kq.bgp.68tool.com/video/m3u8/2022/05/12/8b15b340/playlist.m3u8
+南北组合vs吉萍 我想回到三十岁之前 DJ京仔,https://kq.bgp.68tool.com/video/m3u8/2022/05/10/84b91ce4/playlist.m3u8
+躲伤躲痛躲回忆 DJ九锐,https://kq.bgp.68tool.com/video/m3u8/2022/05/10/d9d1549a/playlist.m3u8
+其实很想你 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/05/10/6fb72771/playlist.m3u8
+有一种想念震耳欲聋 DJ阳山伟伟,https://kq.bgp.68tool.com/video/m3u8/2022/05/10/a7d5e88b/playlist.m3u8
+冯鑫阳vs陈晓韩 一个爱字心痛一生 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2022/05/10/3dc8e609/playlist.m3u8
+我愿你 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/05/10/7457f59e/playlist.m3u8
+你曾发的誓 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/06/b6d18355/playlist.m3u8
+那个为爱流过泪的人 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/05/06/d2f52dc7/playlist.m3u8
+我也曾低头挽留一个人 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/06/ea3e29c9/playlist.m3u8
+最终你还是无情的走 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/06/585ad826/playlist.m3u8
+为何生活这么苦 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/05/06/bc7848eb/playlist.m3u8
+你弄丢了视你如命的人 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/05/06/8cbdba34/playlist.m3u8
+她会魔法吧 南昌DJ阿飞,https://kq.bgp.68tool.com/video/m3u8/2022/05/02/f01359d7/playlist.m3u8
+对你而言 DJ铁柱,https://kq.bgp.68tool.com/video/m3u8/2022/05/02/5f1af02e/playlist.m3u8
+姐就是这个范儿 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/05/02/20903cb4/playlist.m3u8
+落花满天 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/05/02/3d9fcdc4/playlist.m3u8
+一滴泪的时间,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/a9141aaf/playlist.m3u8
+曾 DJ名龙,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/95f771e9/playlist.m3u8
+后来我再也没有找过你 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/790a46ed/playlist.m3u8
+想你的时候问月亮 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/d6ba6733/playlist.m3u8
+不会再让你哭泣 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/0c8781b2/playlist.m3u8
+做个没心没肺的人 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/30d7f772/playlist.m3u8
+给我点时间去忘记 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/4f6ae230/playlist.m3u8
+掌心之中 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/ec2b81cf/playlist.m3u8
+咱是老爷们儿 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/60251def/playlist.m3u8
+失忆 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/2e77a212/playlist.m3u8
+自己的生活 DJR7版,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/23ad6678/playlist.m3u8
+你说过好好爱我的,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/170dabe1/playlist.m3u8
+你的酒馆对我打了烊 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/7b08e294/playlist.m3u8
+你瞒我瞒 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/29/cbbbd8ec/playlist.m3u8
+人生路漫漫长 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/a24308c3/playlist.m3u8
+别说你有多爱我 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/5ecb8d79/playlist.m3u8
+小韵vs广东河阳组合 好好恋爱,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/b27fbdeb/playlist.m3u8
+好想再爱你 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/a4ea12d1/playlist.m3u8
+天黑路滑人心复杂 太空旋律弹鼓版 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/f6b6d91b/playlist.m3u8
+青春如你 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/f8b36814/playlist.m3u8
+爱是风飞沙 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/5b968cec/playlist.m3u8
+逐光 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/24/83c8971d/playlist.m3u8
+出了家忘了她 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/d25e7d56/playlist.m3u8
+你要结婚了 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/bb9fff84/playlist.m3u8
+哪里都是你 DJ版,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/58d2f040/playlist.m3u8
+幽谷戏山林 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/226dd34f/playlist.m3u8
+启程 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/08b8d161/playlist.m3u8
+如果来生还能遇见 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/408ddc14/playlist.m3u8
+隐疾 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/cf65eaa6/playlist.m3u8
+怎么开心就怎么来 DJ阳少,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/747cbdff/playlist.m3u8
+有生之恋 DJ德朋,https://kq.bgp.68tool.com/video/m3u8/2022/04/11/02eb0c66/playlist.m3u8
+男人的泪是酒 DJ可乐,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/f6972998/playlist.m3u8
+费烟 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/ef3c54b2/playlist.m3u8
+情劫 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/1b67a470/playlist.m3u8
+半梦一生 DJheap九天,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/ba44e19e/playlist.m3u8
+孤城 DJ德朋,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/c8763a51/playlist.m3u8
+爱的魔咒 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/86bb1637/playlist.m3u8
+风中的承诺 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/57b42755/playlist.m3u8
+心碎 DJ Candy,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/fa5594cc/playlist.m3u8
+你能不能不要离开我 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/052c9803/playlist.m3u8
+你的眼睛像星星 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/0a3e314b/playlist.m3u8
+风的季节 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/4c67c038/playlist.m3u8
+九十九步退一步 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/04/09/b042e31d/playlist.m3u8
+吹的牛实现了吗 DJ女生版,https://kq.bgp.68tool.com/video/m3u8/2022/04/03/ae730534/playlist.m3u8
+炸雷 沈阳DJ小博,https://kq.bgp.68tool.com/video/m3u8/2022/04/03/2047dfea/playlist.m3u8
+燕雀南飞 DJEva,https://kq.bgp.68tool.com/video/m3u8/2022/04/03/1465cabb/playlist.m3u8
+护花使者 DJHous,https://kq.bgp.68tool.com/video/m3u8/2022/04/03/f8d1d284/playlist.m3u8
+在他乡 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/03/23/0cb56a33/playlist.m3u8
+红颜知己 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/03/23/29d1b9da/playlist.m3u8
+难渡半生 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/03/23/922e3ba8/playlist.m3u8
+借酒浇愁 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/03/23/b2344e89/playlist.m3u8
+风雨人生路 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/03/23/52a40b73/playlist.m3u8
+阿尔山的姑娘 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/03/21/44085896/playlist.m3u8
+先生有一张未婚夫的脸 DJ阳少,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/c441af34/playlist.m3u8
+找个女人成个家 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/e7ec8f05/playlist.m3u8
+一个俗人 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/ab14f988/playlist.m3u8
+高原蓝 DJJoan,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/1814a8e2/playlist.m3u8
+锄禾日当午 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/631bd7ac/playlist.m3u8
+一段感情一段伤 DJheap九天,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/08644cfd/playlist.m3u8
+浮生记,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/aa7493a3/playlist.m3u8
+来跳舞中文版,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/973857f6/playlist.m3u8
+游京 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/6b8f6601/playlist.m3u8
+魔鬼邂逅 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/153fea5f/playlist.m3u8
+霍云龙vs黑小黑 不做神来不做仙合唱版 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/34884a19/playlist.m3u8
+红尘彼岸却无她 DJEva,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/a6dea837/playlist.m3u8
+酒醉的蝴蝶女声版 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/f41019d8/playlist.m3u8
+我爱的人你别碰 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/03/16/8af467e1/playlist.m3u8
+海市蜃楼 DJ德朋,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/f4b795b3/playlist.m3u8
+温柔乡 DJWave,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/62c44e6c/playlist.m3u8
+情意结 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/a7dc4c45/playlist.m3u8
+忘情牛肉面 DJ阿B,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/69b66245/playlist.m3u8
+兄弟好兄弟 DJ阿亮,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/20280213/playlist.m3u8
+深夜想着谁 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/556009e5/playlist.m3u8
+情难留 爱难收 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/55e5ae21/playlist.m3u8
+万家火 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/06d98c0a/playlist.m3u8
+迟来的爱 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/3209ca0d/playlist.m3u8
+求佛 DJPad仔,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/f0d53c99/playlist.m3u8
+善变 DJR7,https://kq.bgp.68tool.com/video/m3u8/2022/02/27/4681f5b0/playlist.m3u8
+一厢情愿终成错 Dj枫叶,https://kq.bgp.68tool.com/video/m3u8/2022/02/23/6a76603c/playlist.m3u8
+一路歌唱 DJ吴聪,https://kq.bgp.68tool.com/video/m3u8/2022/02/23/48763c2f/playlist.m3u8
+贼拉拉 DJ王贺,https://kq.bgp.68tool.com/video/m3u8/2022/02/23/89ac1bbd/playlist.m3u8
+萱草花 Dj赫赫,https://kq.bgp.68tool.com/video/m3u8/2022/02/23/02241ded/playlist.m3u8
+不变的音乐 DjDDG,https://kq.bgp.68tool.com/video/m3u8/2022/02/23/09ec689a/playlist.m3u8
+雨中的恋人们 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2022/02/21/5a6a5afb/playlist.m3u8
+天也不懂情 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2022/02/21/d675470e/playlist.m3u8
+我们不该这样的 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2022/02/21/fa817053/playlist.m3u8
+每天说句我爱你 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2022/02/20/1b62770c/playlist.m3u8
+人生没有如果只有结果 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/02/18/913adecc/playlist.m3u8
+富士山下 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2022/02/18/65ccb1b7/playlist.m3u8
+海阔vs李进 兄弟我挺你 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2022/02/08/ddf5270b/playlist.m3u8
+为爱流泪的女人 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/02/08/13bb54f0/playlist.m3u8
+恋人心 Mcyy,https://kq.bgp.68tool.com/video/m3u8/2022/02/06/a03514c2/playlist.m3u8
+谁的新欢不是别人的旧爱 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2022/02/06/b2d09f70/playlist.m3u8
+阿拉斯加的海湾 Dj贺仔,https://kq.bgp.68tool.com/video/m3u8/2022/02/06/a519d5b1/playlist.m3u8
+孤独的人最懂伤感情歌 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2022/02/06/857de36a/playlist.m3u8
+虎年大吉 DJ京仔,https://kq.bgp.68tool.com/video/m3u8/2022/01/29/0dde04b6/playlist.m3u8
+裸爱 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2022/01/26/24355c17/playlist.m3u8
+流泪唱着想你的歌 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2022/01/21/849d52cc/playlist.m3u8
+如果时间可以回到从前 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2022/01/21/1eacd006/playlist.m3u8
+风之花 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2022/01/21/faa4b8e1/playlist.m3u8
+末班车 DJ光头,https://kq.bgp.68tool.com/video/m3u8/2022/01/19/a23f250c/playlist.m3u8
+淡淡情愁 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2022/01/19/6670539a/playlist.m3u8
+晚秋 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2022/01/19/c2dc5d07/playlist.m3u8
+十不该 DJ阿华,https://kq.bgp.68tool.com/video/m3u8/2022/01/19/b2132784/playlist.m3u8
+为爱痴狂 DJ坚少,https://kq.bgp.68tool.com/video/m3u8/2022/01/19/c8a68f6a/playlist.m3u8
+水手 DJ阿清,https://kq.bgp.68tool.com/video/m3u8/2022/01/19/fb855d3f/playlist.m3u8
+你走的无情 DJCorn,https://kq.bgp.68tool.com/video/m3u8/2022/01/16/d373d778/playlist.m3u8
+无情的风雨无情的你 DJ晓明,https://kq.bgp.68tool.com/video/m3u8/2022/01/16/5298a088/playlist.m3u8
+红尘有缘 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2022/01/15/2e556441/playlist.m3u8
+最热的情换最狠的痛 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2022/01/15/78915cab/playlist.m3u8
+眼泪的错觉 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2022/01/11/ce9ae5ba/playlist.m3u8
+罗文vs甄妮 世间始终你好 弹鼓版,https://kq.bgp.68tool.com/video/m3u8/2022/01/11/e3d055fd/playlist.m3u8
+妹妹的牵挂 DJ晓明,https://kq.bgp.68tool.com/video/m3u8/2022/01/11/86c5144c/playlist.m3u8
+带你潇洒带你嗨 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2022/01/11/516988f3/playlist.m3u8
+风筝误 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2022/01/11/49d1c241/playlist.m3u8
+不过人间 DJARS,https://kq.bgp.68tool.com/video/m3u8/2022/01/11/1e5ee5f2/playlist.m3u8
+以你为名的歌 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2022/01/06/23efd314/playlist.m3u8
+我会一个人白头到老吗 DJQQ,https://kq.bgp.68tool.com/video/m3u8/2022/01/06/80f55b29/playlist.m3u8
+为爱痴狂 DJAyong,https://kq.bgp.68tool.com/video/m3u8/2022/01/06/f198a0d7/playlist.m3u8
+万爱千恩 djremix,https://kq.bgp.68tool.com/video/m3u8/2021/12/31/913d32c6/playlist.m3u8
+苦乐人生 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/12/28/240367ef/playlist.m3u8
+山谷里的思念 正版DJ,https://kq.bgp.68tool.com/video/m3u8/2021/12/24/965d6a30/playlist.m3u8
+酒梦 DJ酱爆鱿鱼,https://kq.bgp.68tool.com/video/m3u8/2021/12/22/a86ba7b4/playlist.m3u8
+此生最难忘 DJ酷博,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/70f680f7/playlist.m3u8
+饿狼传说 DJ何鹏加快版,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/a638ff14/playlist.m3u8
+思念山歌 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/d19c6085/playlist.m3u8
+又见山里红 DJ版,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/b1dc08fd/playlist.m3u8
+走江南 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/1d9981ca/playlist.m3u8
+兄弟抱一下 DJ阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/6766a24c/playlist.m3u8
+粉红色的回忆 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2021/12/18/2872cc03/playlist.m3u8
+相爱分开都是罪 DJ苦Ferry,https://kq.bgp.68tool.com/video/m3u8/2021/12/16/220b0f20/playlist.m3u8
+千山雪 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2021/12/16/dc8ae6b4/playlist.m3u8
+爱的就是你 DJ狂暴版,https://kq.bgp.68tool.com/video/m3u8/2021/12/16/fa990f20/playlist.m3u8
+今夜想喝醉 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/12/11/c679aa15/playlist.m3u8
+你看你看月亮的脸 DJR7,https://kq.bgp.68tool.com/video/m3u8/2021/12/11/89d1125c/playlist.m3u8
+可怜的落魄人 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2021/12/11/5b060e49/playlist.m3u8
+路边的野花不要采 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/12/11/abafb175/playlist.m3u8
+过火 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/12/11/90d3a489/playlist.m3u8
+失眠的人 DJ刘超,https://kq.bgp.68tool.com/video/m3u8/2021/12/08/564a0c94/playlist.m3u8
+多想留在你身边 DJ京仔,https://kq.bgp.68tool.com/video/m3u8/2021/12/08/859f32b8/playlist.m3u8
+人生就是一出戏 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2021/12/06/33ab9df3/playlist.m3u8
+朱影佳vs一影 我的一生都是你 DJ可乐,https://kq.bgp.68tool.com/video/m3u8/2021/12/06/5d26b0f0/playlist.m3u8
+入戏又动心,https://kq.bgp.68tool.com/video/m3u8/2021/12/06/2c131140/playlist.m3u8
+分手的话 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/12/06/fcedaf93/playlist.m3u8
+兄弟难当 mcyaoyao,https://kq.bgp.68tool.com/video/m3u8/2021/12/06/b720e34e/playlist.m3u8
+原来你一直在骗我 DJ阿杰,https://kq.bgp.68tool.com/video/m3u8/2021/12/06/0fb55080/playlist.m3u8
+人的命天注定 DJ阿圣,https://kq.bgp.68tool.com/video/m3u8/2021/12/03/f8edf32c/playlist.m3u8
+今晚就喝这些酒 DJ小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2021/12/03/31b82e2a/playlist.m3u8
+老地方的雨 DJ细霖,https://kq.bgp.68tool.com/video/m3u8/2021/12/03/c6c08924/playlist.m3u8
+相思的债 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/12/03/cbcb4195/playlist.m3u8
+就让我痛饮这杯忘情酒 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/11/29/7a76c2c8/playlist.m3u8
+蜗牛与黄鹂鸟 DJ浪子金,https://kq.bgp.68tool.com/video/m3u8/2021/11/23/2783e102/playlist.m3u8
+谁比我更爱你,https://kq.bgp.68tool.com/video/m3u8/2021/11/23/61d269c6/playlist.m3u8
+一生相守 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/11/23/06ff07cd/playlist.m3u8
+醉在爱的天堂 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/11/23/05809039/playlist.m3u8
+无能为力爱下去 DJ杨铭权,https://kq.bgp.68tool.com/video/m3u8/2021/11/20/f7be7660/playlist.m3u8
+亲爱的你快乐吗 DJ杨铭权,https://kq.bgp.68tool.com/video/m3u8/2021/11/20/0ac27aa8/playlist.m3u8
+太疲惫 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/11/20/3525ef72/playlist.m3u8
+人生不过三杯酒 DJ光音坊,https://kq.bgp.68tool.com/video/m3u8/2021/11/20/52ae9c79/playlist.m3u8
+在下先告辞 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2021/11/20/64dc6898/playlist.m3u8
+情化成伤 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2021/11/20/31909bf5/playlist.m3u8
+在劫难逃 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2021/11/15/f27b4ba9/playlist.m3u8
+姬和不如 DJ阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/11/15/0a6c9b37/playlist.m3u8
+轻轻的告诉你 DJ阿奇,https://kq.bgp.68tool.com/video/m3u8/2021/11/15/70051b47/playlist.m3u8
+小小的太阳 DJ阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/11/15/4be2f910/playlist.m3u8
+相见恨晚 DJ麦伦vsDJYork耀,https://kq.bgp.68tool.com/video/m3u8/2021/11/11/eadc8697/playlist.m3u8
+惜别的海岸 DJ欧东,https://kq.bgp.68tool.com/video/m3u8/2021/11/11/c4f9eea5/playlist.m3u8
+点歌的人 Kin,https://kq.bgp.68tool.com/video/m3u8/2021/11/11/97ffcf9e/playlist.m3u8
+大郎该吃药了 dj何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/11/07/5dcf5aaa/playlist.m3u8
+不过人间 McYaoyao,https://kq.bgp.68tool.com/video/m3u8/2021/11/03/7a4099a9/playlist.m3u8
+带你潇洒带你嗨 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2021/10/27/9875a8a7/playlist.m3u8
+一分一寸,https://kq.bgp.68tool.com/video/m3u8/2021/10/25/840a836a/playlist.m3u8
+失眠的夜 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/10/25/575f3241/playlist.m3u8
+步步化酒 DJ名龙,https://kq.bgp.68tool.com/video/m3u8/2021/10/25/518e0362/playlist.m3u8
+王力宏vs谭维维 缘分一道桥,https://kq.bgp.68tool.com/video/m3u8/2021/10/25/9c9750b2/playlist.m3u8
+酒醉的我 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/10/21/cf94dcc7/playlist.m3u8
+如意,https://kq.bgp.68tool.com/video/m3u8/2021/10/21/5baed4c3/playlist.m3u8
+候鸟南飞,https://kq.bgp.68tool.com/video/m3u8/2021/10/21/75d271fb/playlist.m3u8
+醉过多少回 DJ威笑,https://kq.bgp.68tool.com/video/m3u8/2021/10/21/10d2f757/playlist.m3u8
+想你的时候问月亮 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/10/13/81eb56dd/playlist.m3u8
+漂洋过海来看你 djmichael,https://kq.bgp.68tool.com/video/m3u8/2021/10/13/99270550/playlist.m3u8
+习惯一个人 DjDell,https://kq.bgp.68tool.com/video/m3u8/2021/10/13/2e214995/playlist.m3u8
+不完美的结局,https://kq.bgp.68tool.com/video/m3u8/2021/10/13/4a177b95/playlist.m3u8
+让我们荡起双桨 Dj培仔,https://kq.bgp.68tool.com/video/m3u8/2021/10/13/5d7a4f44/playlist.m3u8
+风夜行 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/10/13/6a50783b/playlist.m3u8
+够爱 mcyy,https://kq.bgp.68tool.com/video/m3u8/2021/10/09/f89d3976/playlist.m3u8
+BYD蹦野迪 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/10/09/a20f8dba/playlist.m3u8
+付豪vs鹏鹏 鬼迷心窍 DJ金诚,https://kq.bgp.68tool.com/video/m3u8/2021/10/09/da645b62/playlist.m3u8
+深情败给时间 McYaoyao,https://kq.bgp.68tool.com/video/m3u8/2021/10/08/56a562de/playlist.m3u8
+活该爱太深 DJ可乐,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/fb6ab9c6/playlist.m3u8
+爱情泡沫 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/97c0467e/playlist.m3u8
+日日夜夜想的都是你 DJPW,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/32437fe1/playlist.m3u8
+爱你的我 DJ浪子鹏鹏,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/462364e5/playlist.m3u8
+蜜雪冰城 DJPad仔,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/3bfc87c3/playlist.m3u8
+小幸福 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/857abae9/playlist.m3u8
+追梦人 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/9b2b3da2/playlist.m3u8
+周华健vs齐豫 神话情话 DJ版,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/ad611ff2/playlist.m3u8
+兄弟来喝酒 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/09/28/b711a0ea/playlist.m3u8
+断桥残雪 DJHouse音乐,https://kq.bgp.68tool.com/video/m3u8/2021/09/25/24670346/playlist.m3u8
+笑柄 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2021/09/25/3949f777/playlist.m3u8
+有一种爱叫做放手 DjPad仔车载版,https://kq.bgp.68tool.com/video/m3u8/2021/09/25/cc59fafb/playlist.m3u8
+九妹 DJR7,https://kq.bgp.68tool.com/video/m3u8/2021/09/25/b0152ffc/playlist.m3u8
+茶山情歌 DJR7车载版,https://kq.bgp.68tool.com/video/m3u8/2021/09/25/79ee9082/playlist.m3u8
+沉溺 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/25/d64797ee/playlist.m3u8
+我会想起你 Mcyy,https://kq.bgp.68tool.com/video/m3u8/2021/09/17/355bfcd2/playlist.m3u8
+拿走了什么 Mcyy,https://kq.bgp.68tool.com/video/m3u8/2021/09/17/a14cb54d/playlist.m3u8
+不爱又何必纠缠 DJ欧东,https://kq.bgp.68tool.com/video/m3u8/2021/09/17/1e88a29f/playlist.m3u8
+再度重相逢 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/09/17/c77c684f/playlist.m3u8
+差一步 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2021/09/17/29f73c4d/playlist.m3u8
+穿透 DjLc,https://kq.bgp.68tool.com/video/m3u8/2021/09/17/0cc8bee0/playlist.m3u8
+看不见的伤最痛 DJ唐僧,https://kq.bgp.68tool.com/video/m3u8/2021/09/16/ee041549/playlist.m3u8
+我们真的放了手 DJ小鱼儿加快Radio,https://kq.bgp.68tool.com/video/m3u8/2021/09/16/f3681a28/playlist.m3u8
+想你容易见面难 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/16/9ea59ee5/playlist.m3u8
+我们不再是从前 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/09/11/ac2eac00/playlist.m3u8
+相思难绝 DJAw,https://kq.bgp.68tool.com/video/m3u8/2021/09/11/aecd2bf9/playlist.m3u8
+等黄昏 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2021/09/11/4a6dea4d/playlist.m3u8
+一路去远方 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/11/524bc8ba/playlist.m3u8
+秀儿是你吗 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/11/721bea49/playlist.m3u8
+烟雨成思 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2021/09/11/34493898/playlist.m3u8
+恍如昨天 Dj阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/d0393ff3/playlist.m3u8
+命里缺个你 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/ef285415/playlist.m3u8
+离开我你快乐吗 DJ名龙Mix,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/f925cd5e/playlist.m3u8
+小倩vs王星贺 一个人的夜太孤单 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/552e7eb3/playlist.m3u8
+一晃就老了 DJ何鹏版,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/c633dc93/playlist.m3u8
+喝杯烈酒唱首歌 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/c6f6d59e/playlist.m3u8
+缘分一道桥 DJAsh阿胜Remix,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/2d691aaa/playlist.m3u8
+刘惜君vs王赫野 大风吹 DJ版,https://kq.bgp.68tool.com/video/m3u8/2021/09/07/0a4b4ce2/playlist.m3u8
+一曲高歌 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/09/04/9b73936d/playlist.m3u8
+找个时间聚聚吧 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/09/04/f4dddcf7/playlist.m3u8
+男人就要活出个男人的样 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/6a6f0695/playlist.m3u8
+杀猪刀 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/61bea591/playlist.m3u8
+有多少爱值得信赖 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/1068057c/playlist.m3u8
+爱的越认真伤的就越深 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/4bdc0821/playlist.m3u8
+流浪的情话 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/2a148ddd/playlist.m3u8
+穿错了婚纱怎会美 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/748914da/playlist.m3u8
+男人的幸福 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/28/b66d73a1/playlist.m3u8
+东北菜东北味 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/27/9afaf2cc/playlist.m3u8
+一马当先 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/27/e4b8e4e4/playlist.m3u8
+明明很爱你却要忘记你 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/08/25/7661a2d1/playlist.m3u8
+红色高跟鞋 DjPad仔vsDj小胜,https://kq.bgp.68tool.com/video/m3u8/2021/08/25/778e5f77/playlist.m3u8
+真爱一世情 DjMr.Chen,https://kq.bgp.68tool.com/video/m3u8/2021/08/20/1198e584/playlist.m3u8
+无言的结局 DJLeo,https://kq.bgp.68tool.com/video/m3u8/2021/08/20/a6391873/playlist.m3u8
+斯琴高丽vs顾峰 犯错 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/08/20/7becd1cd/playlist.m3u8
+爱的世界只有你 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/08/20/2f6f498a/playlist.m3u8
+这该死的爱 DJLanCe,https://kq.bgp.68tool.com/video/m3u8/2021/08/20/bb8c54b5/playlist.m3u8
+特别的爱给特别的你DJ版 又被黄绮珊唱火了,https://kq.bgp.68tool.com/video/m3u8/2021/08/17/1af0c729/playlist.m3u8
+炜杰vs钟瑜 隔着屏幕说我爱你 DJ伟然版,https://kq.bgp.68tool.com/video/m3u8/2021/08/13/0888a200/playlist.m3u8
+走过咖啡屋 DJ刘超,https://kq.bgp.68tool.com/video/m3u8/2021/08/13/be7a330a/playlist.m3u8
+找个理由去看你 DJheap九天,https://kq.bgp.68tool.com/video/m3u8/2021/08/13/66a0adee/playlist.m3u8
+我们就这样走散 dj阿远,https://kq.bgp.68tool.com/video/m3u8/2021/08/13/8dd04cd9/playlist.m3u8
+离别的车站 凌源DJ小柳,https://kq.bgp.68tool.com/video/m3u8/2021/08/07/bdc513c0/playlist.m3u8
+传奇 Dj阿福,https://kq.bgp.68tool.com/video/m3u8/2021/08/07/408399e3/playlist.m3u8
+爱你已断了我所有的感情 DJ默涵,https://kq.bgp.68tool.com/video/m3u8/2021/08/07/2101545b/playlist.m3u8
+终于等到你 Dj_Corn,https://kq.bgp.68tool.com/video/m3u8/2021/08/07/f3fd86cd/playlist.m3u8
+人生本是一场戏 DJ刘超,https://kq.bgp.68tool.com/video/m3u8/2021/08/07/14cf0a5e/playlist.m3u8
+下辈子不一定还能遇见你 DJHOUSE,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/4873c585/playlist.m3u8
+把悲伤留给自己 Dj.Emil尛文,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/64ded9f6/playlist.m3u8
+橘子汽水 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/60ce4e13/playlist.m3u8
+周燕vs马海亮 谁都知道我爱你 DJ可乐,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/35b8dbb7/playlist.m3u8
+情深几许 DJheap九天,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/9d804270/playlist.m3u8
+不该用情 DJPad仔,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/08fd0441/playlist.m3u8
+龙梅子vs老猫 小哥哥你别走 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/28e874b7/playlist.m3u8
+老人与海 DJHouse,https://kq.bgp.68tool.com/video/m3u8/2021/08/04/4c25f23d/playlist.m3u8
+蜜雪冰城 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/07044cf2/playlist.m3u8
+999朵玫瑰 DJR7车载版,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/8217b77f/playlist.m3u8
+还是分开 DJ Jun,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/5e99d173/playlist.m3u8
+皮卡丘多多 dj京仔,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/e02156fd/playlist.m3u8
+芒种 JIANG.x,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/779c4125/playlist.m3u8
+有种离开叫舍不得 DJ炮哥,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/c0d26495/playlist.m3u8
+听风说 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/08/02/8793cf88/playlist.m3u8
+小小的口罩 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/07/31/4ae67fa9/playlist.m3u8
+农安 DjLeex李想,https://kq.bgp.68tool.com/video/m3u8/2021/07/31/f4bc21c9/playlist.m3u8
+等天亮 DJ王贺,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/ac0a256e/playlist.m3u8
+赵方婧vs音阙诗听 芒种,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/3ed9e929/playlist.m3u8
+压寨夫人 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/013499d6/playlist.m3u8
+敬一杯酒 DJ麦伦,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/bb17bcf9/playlist.m3u8
+张二嫂vs杨妹儿 一个月亮一个你 DJ王贺,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/819ed139/playlist.m3u8
+一生为一人 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/3e6ce256/playlist.m3u8
+忘记你真的不容易 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/07/27/1bb8e678/playlist.m3u8
+世上最贵是健康 Dj_Simon越南鼓Remix,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/eb41600e/playlist.m3u8
+半打玫瑰 dj阿远,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/5bffd9a1/playlist.m3u8
+每个人都有一段爱 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/a462437e/playlist.m3u8
+月光下想你 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/9358e382/playlist.m3u8
+下辈子做你的女人 DJ泪鑫,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/e047acf6/playlist.m3u8
+像我们这个年纪的男人 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/f37ba6f0/playlist.m3u8
+漂洋过海来看你 DJ沈念Remix,https://kq.bgp.68tool.com/video/m3u8/2021/07/26/de2dbc24/playlist.m3u8
+骑马喝酒走天涯 DJ默涵版,https://kq.bgp.68tool.com/video/m3u8/2021/07/24/3acaf926/playlist.m3u8
+情人 DJ阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/07/24/06199a3a/playlist.m3u8
+爱了个寂寞 DJ大金,https://kq.bgp.68tool.com/video/m3u8/2021/07/24/038b587b/playlist.m3u8
+只要你能过得好 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/07/21/dcb0a14c/playlist.m3u8
+我究竟是你的谁 DJ花哨,https://kq.bgp.68tool.com/video/m3u8/2021/07/21/30d71e6e/playlist.m3u8
+糊涂的蝴蝶 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/07/14/a1b2992d/playlist.m3u8
+丫蛋蛋vs崔铭嘉 口是心非 DJ小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2021/07/14/9510e11b/playlist.m3u8
+找个大叔嫁了吧 DJ7叔,https://kq.bgp.68tool.com/video/m3u8/2021/07/07/c89c5d66/playlist.m3u8
+世间美好与你环环相扣(女声版) DjYaha,https://kq.bgp.68tool.com/video/m3u8/2021/07/07/9e50f6c2/playlist.m3u8
+不下雪的广东 DJ酱爆,https://kq.bgp.68tool.com/video/m3u8/2021/07/07/673f856b/playlist.m3u8
+兄弟抱一下 DJ张扬,https://kq.bgp.68tool.com/video/m3u8/2021/07/04/3191cea4/playlist.m3u8
+爱情在草原 DJ小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2021/07/04/bb31a814/playlist.m3u8
+赤伶 DJ小胜vsDJ名龙,https://kq.bgp.68tool.com/video/m3u8/2021/07/04/87863cd4/playlist.m3u8
+何必将就 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/06/30/55015e2a/playlist.m3u8
+陈文献vs郑顺鹏 叫我一声靓仔 DJmix,https://kq.bgp.68tool.com/video/m3u8/2021/06/30/4709c0e2/playlist.m3u8
+魂牵梦绕 DJ王志,https://kq.bgp.68tool.com/video/m3u8/2021/06/30/cc097b8d/playlist.m3u8
+广东爱情故事 dj浪子康,https://kq.bgp.68tool.com/video/m3u8/2021/06/30/1525e739/playlist.m3u8
+浮夸的理想 dj平仔,https://kq.bgp.68tool.com/video/m3u8/2021/06/19/302ed0ae/playlist.m3u8
+别等我离开才说爱我 DJ王志,https://kq.bgp.68tool.com/video/m3u8/2021/06/19/b86f315d/playlist.m3u8
+无声仿有声 Dj小浩,https://kq.bgp.68tool.com/video/m3u8/2021/06/07/9724e83f/playlist.m3u8
+入戏太深 DJ Kene,https://kq.bgp.68tool.com/video/m3u8/2021/06/04/625107a4/playlist.m3u8
+大约在冬季 Dj阿华,https://kq.bgp.68tool.com/video/m3u8/2021/06/04/b5af2433/playlist.m3u8
+伪装 DJ小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2021/06/04/082e1ac9/playlist.m3u8
+两枪 DJ小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2021/06/01/3a4cb59b/playlist.m3u8
+哥有老婆 DJ7叔,https://kq.bgp.68tool.com/video/m3u8/2021/05/30/51264874/playlist.m3u8
+你对我屏蔽了朋友圈 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/05/25/80c2443b/playlist.m3u8
+饿狼传说 DJ贝勒,https://kq.bgp.68tool.com/video/m3u8/2021/05/24/56519954/playlist.m3u8
+不甘平凡 DJ大圣,https://kq.bgp.68tool.com/video/m3u8/2021/05/24/52cf353f/playlist.m3u8
+梦醒时分,https://kq.bgp.68tool.com/video/m3u8/2021/05/24/a312d367/playlist.m3u8
+欠我个未来 Dj贺仔vs南昌Dj阿飞,https://kq.bgp.68tool.com/video/m3u8/2021/05/13/655b5f89/playlist.m3u8
+老婆老妈 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/05/01/0db616f1/playlist.m3u8
+往事如烟 DJ阿华,https://kq.bgp.68tool.com/video/m3u8/2021/05/01/221c2ac6/playlist.m3u8
+原则 Mcyy,https://kq.bgp.68tool.com/video/m3u8/2021/05/01/e9d0cc3b/playlist.m3u8
+想说一句我爱你 DJWave,https://kq.bgp.68tool.com/video/m3u8/2021/04/20/3e7eb578/playlist.m3u8
+魔鬼中的天使 Dj翊軒,https://kq.bgp.68tool.com/video/m3u8/2021/04/20/a2181c56/playlist.m3u8
+男人有泪不低头 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/a2c34e9f/playlist.m3u8
+男人花 DJ王贺,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/e3140fc4/playlist.m3u8
+何流vs宋晓峰 难得真兄弟 DJ何鹏Remix,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/14e4f9df/playlist.m3u8
+原来你只是一个过客 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/86c97ee2/playlist.m3u8
+尽头 Dj贺仔,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/300991d9/playlist.m3u8
+听着情歌流眼泪 DJ王贺,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/e53dd126/playlist.m3u8
+方磊vs贾玲 依兰爱情故事 dj圣豪,https://kq.bgp.68tool.com/video/m3u8/2021/04/18/0c46af4d/playlist.m3u8
+卜卦 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/04/16/21370475/playlist.m3u8
+喝点小酒 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/04/16/c9650501/playlist.m3u8
+又见山里红 DJCandy,https://kq.bgp.68tool.com/video/m3u8/2021/04/16/07490ae1/playlist.m3u8
+飞鸟和蝉 DJ伯格,https://kq.bgp.68tool.com/video/m3u8/2021/04/16/eb08299e/playlist.m3u8
+高安vs杨梓文祺 余生全部都是你 DJ岗岗,https://kq.bgp.68tool.com/video/m3u8/2021/04/16/a159a250/playlist.m3u8
+我一个人唱伤心的歌 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/04/16/9ba48250/playlist.m3u8
+一瞬间 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/e4c82013/playlist.m3u8
+可不可以 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/b9db664c/playlist.m3u8
+多想留在你身边 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/31d443d2/playlist.m3u8
+得不到你 翊轩,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/48a2eda3/playlist.m3u8
+默 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/1f508c17/playlist.m3u8
+互相伤害 dj阿远,https://kq.bgp.68tool.com/video/m3u8/2021/04/11/5005241a/playlist.m3u8
+你根本不懂 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2021/04/09/70868a39/playlist.m3u8
+这一生关于你的风景 Dj小波,https://kq.bgp.68tool.com/video/m3u8/2021/04/09/ef0259dd/playlist.m3u8
+花腰姑娘 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/04/06/e86f9959/playlist.m3u8
+等风等雨不如等你 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/04/06/92ffa23c/playlist.m3u8
+十五的月亮 DJ小玉Remix,https://kq.bgp.68tool.com/video/m3u8/2021/04/03/74a96e4d/playlist.m3u8
+可不可以 Dj贺仔,https://kq.bgp.68tool.com/video/m3u8/2021/04/01/783a3a87/playlist.m3u8
+即使痛我也会爱你 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/04/01/d334aa95/playlist.m3u8
+牛在飞 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/04/01/c660bd1e/playlist.m3u8
+我是你无关的 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/04/01/a2f4c981/playlist.m3u8
+爱过一回伤一回 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/04/01/02b4aaeb/playlist.m3u8
+杀猪刀 DJheap九天,https://kq.bgp.68tool.com/video/m3u8/2021/03/31/ff2d63f0/playlist.m3u8
+借酒消愁愁更愁 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/03/31/abd44fa5/playlist.m3u8
+告白歌 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/03/31/f041ac72/playlist.m3u8
+忽然之间 DJ阿喜,https://kq.bgp.68tool.com/video/m3u8/2021/03/29/edaa8e2b/playlist.m3u8
+岁月情歌 DJCANDY,https://kq.bgp.68tool.com/video/m3u8/2021/03/29/25eb943f/playlist.m3u8
+恍如昨天 DJ艾乐,https://kq.bgp.68tool.com/video/m3u8/2021/03/29/82e8f709/playlist.m3u8
+过期的誓言 Dj何鹏版,https://kq.bgp.68tool.com/video/m3u8/2021/03/20/a9f555d2/playlist.m3u8
+突然的自我 DJ阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/03/20/3ccb1534/playlist.m3u8
+忘情方便面 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/03/20/f90f1244/playlist.m3u8
+想你就想哭 DJ何鹏版,https://kq.bgp.68tool.com/video/m3u8/2021/03/20/efd856ca/playlist.m3u8
+像个孩子 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/03/20/9300136d/playlist.m3u8
+停留 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/03/19/eaccd6f9/playlist.m3u8
+路还远 DJ大金版,https://kq.bgp.68tool.com/video/m3u8/2021/03/19/1260717c/playlist.m3u8
+歌颂 DJ沈念 ProgHouse,https://kq.bgp.68tool.com/video/m3u8/2021/03/17/f29b56b5/playlist.m3u8
+在人间 Mcyy,https://kq.bgp.68tool.com/video/m3u8/2021/03/17/3939032b/playlist.m3u8
+青春如你 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/03/11/d05424cf/playlist.m3u8
+不服就干 DJ沈念,https://kq.bgp.68tool.com/video/m3u8/2021/03/11/af1e1895/playlist.m3u8
+你的选择 mcyy,https://kq.bgp.68tool.com/video/m3u8/2021/03/11/efe7ca5e/playlist.m3u8
+眼睛在下雨 Dj沈念,https://kq.bgp.68tool.com/video/m3u8/2021/03/11/0fbb0fce/playlist.m3u8
+风雨后的彩虹 DJ何鹏版,https://kq.bgp.68tool.com/video/m3u8/2021/03/08/d48e54de/playlist.m3u8
+把孤独当作晚餐 Dj阿华,https://kq.bgp.68tool.com/video/m3u8/2021/03/08/c0285805/playlist.m3u8
+极度缺氧 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/03/08/6e4b1459/playlist.m3u8
+适可而止 DJ花哨版,https://kq.bgp.68tool.com/video/m3u8/2021/03/07/09593f61/playlist.m3u8
+恭喜发财 DjLc,https://kq.bgp.68tool.com/video/m3u8/2021/03/07/de944eb3/playlist.m3u8
+活成自己想要的模样 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/03/07/5e1cbb16/playlist.m3u8
+九宫格&郑雨泽 不再过问 DJR7,https://kq.bgp.68tool.com/video/m3u8/2021/03/07/9bd8ca0e/playlist.m3u8
+走自己的路 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/03/07/de8080e3/playlist.m3u8
+特别的爱给特别的你 Dj9锐版,https://kq.bgp.68tool.com/video/m3u8/2021/03/07/07997fcc/playlist.m3u8
+江湖的酒 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/03/06/ba75da1f/playlist.m3u8
+爷们就要争口气 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2021/03/06/5a704fe0/playlist.m3u8
+痛痛快快的哭 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/03/06/2f3abbd5/playlist.m3u8
+情浓 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/03/04/1053af33/playlist.m3u8
+欠我一个道歉 DJ名龙版,https://kq.bgp.68tool.com/video/m3u8/2021/03/02/1673c197/playlist.m3u8
+错位时空 DJ阿卓,https://kq.bgp.68tool.com/video/m3u8/2021/03/02/6618d01b/playlist.m3u8
+【抖音神曲】阿果吉曲 DJwave,https://kq.bgp.68tool.com/video/m3u8/2021/03/02/66c51aac/playlist.m3u8
+想你的夜 Dj阿帆ElectroMix,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/e95438b5/playlist.m3u8
+如果这都不算爱 Dj培仔Remix,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/1959f751/playlist.m3u8
+爱已经离开 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/0ca1e53c/playlist.m3u8
+中国功夫 DJDick 林传武,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/f8424f12/playlist.m3u8
+我曾经也深深爱过一个人 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/6fa30a16/playlist.m3u8
+醉心问月 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/d1630fb2/playlist.m3u8
+恭喜发财 Dj小帽版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/2c7047e2/playlist.m3u8
+只要你还需要我 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/ed442076/playlist.m3u8
+不如来饮酒 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/d3f1ac5c/playlist.m3u8
+在劫难逃 DJheap九天版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/c10ea8f9/playlist.m3u8
+红尘悠悠 优秀小鸿,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/695c6d55/playlist.m3u8
+梦瑶 DJ名龙,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/a2665510/playlist.m3u8
+不见人归来 DJ沈念版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/4037d92d/playlist.m3u8
+你应该很快乐 DJ伯格,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/ec5eed31/playlist.m3u8
+一千个吻 DJ何鹏版,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/b83fb6b8/playlist.m3u8
+我还是没改变 DJ小桐,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/511efad2/playlist.m3u8
+刺心 CkyBeatz,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/512001f7/playlist.m3u8
+上辈子你也是我的新娘 dj阿远,https://kq.bgp.68tool.com/video/m3u8/2021/01/31/beb7d5b4/playlist.m3u8
+黑小黑vs霍云龙 长的漂亮不如活得漂亮 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/30/70e67ceb/playlist.m3u8
+病变 Dj铭仔,https://kq.bgp.68tool.com/video/m3u8/2021/01/30/2580fab7/playlist.m3u8
+你给我听好 Dj翊轩,https://kq.bgp.68tool.com/video/m3u8/2021/01/28/f83511e8/playlist.m3u8
+刚好遇见你 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/01/28/2cc80a6f/playlist.m3u8
+感谢你曾来过 DJ翊轩,https://kq.bgp.68tool.com/video/m3u8/2021/01/28/a22bd183/playlist.m3u8
+高进vs大壮 本色英雄 DJLanCe,https://kq.bgp.68tool.com/video/m3u8/2021/01/28/faddd206/playlist.m3u8
+南宫嘉骏vs姜玉阳 回忆总想哭,https://kq.bgp.68tool.com/video/m3u8/2021/01/24/c49c5d85/playlist.m3u8
+盗心贼 DJ小秋.阿亮,https://kq.bgp.68tool.com/video/m3u8/2021/01/24/a40802f7/playlist.m3u8
+刘聪vs赵真 山西姑娘 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/01/22/8b7daa07/playlist.m3u8
+把酒喝干 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/22/47acc56e/playlist.m3u8
+七月的风八月的雨 DJ wave,https://kq.bgp.68tool.com/video/m3u8/2021/01/22/a1aacfd1/playlist.m3u8
+一生所爱 djpw,https://kq.bgp.68tool.com/video/m3u8/2021/01/22/31bb56a0/playlist.m3u8
+珍惜缘分 Dj朱汉秋,https://kq.bgp.68tool.com/video/m3u8/2021/01/21/4bdf42b5/playlist.m3u8
+一亿个伤心 Djcandy,https://kq.bgp.68tool.com/video/m3u8/2021/01/20/bf419f31/playlist.m3u8
+穿越草原的云朵 Dj小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2021/01/20/1eba2918/playlist.m3u8
+音阙诗听 vs 赵方婧 芒种 DjXs,https://kq.bgp.68tool.com/video/m3u8/2021/01/20/f33e7b11/playlist.m3u8
+萧全vs孙语赛 不仅仅是喜欢 DJ小桐,https://kq.bgp.68tool.com/video/m3u8/2021/01/20/2e496ac4/playlist.m3u8
+我的名字 Lona,https://kq.bgp.68tool.com/video/m3u8/2021/01/20/13a71365/playlist.m3u8
+只为你狂舞 dj何鹏版,https://kq.bgp.68tool.com/video/m3u8/2021/01/19/0c19242f/playlist.m3u8
+假行僧 DJ小汤姆,https://kq.bgp.68tool.com/video/m3u8/2021/01/18/996011bc/playlist.m3u8
+激动的心颤抖的手 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/18/56cbdac1/playlist.m3u8
+一吻红尘 DJcandy Mix,https://kq.bgp.68tool.com/video/m3u8/2021/01/18/a1c2c6d0/playlist.m3u8
+喝醉的鱼 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/18/9120b198/playlist.m3u8
+从不认输 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/18/8f4efb38/playlist.m3u8
+兄弟不容易 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/55d12c09/playlist.m3u8
+很任性 2019 DJJOCK,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/c33c96c6/playlist.m3u8
+你还想咋地 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/8f98de73/playlist.m3u8
+童话 DJ阿超,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/cfaae113/playlist.m3u8
+爱上我不会错 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/b9f4fdaa/playlist.m3u8
+两个人的回忆一个人过 DJ.Leo_vs_DJ.Max,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/cd38fffe/playlist.m3u8
+不是因为寂寞才想你 DjPad仔,https://kq.bgp.68tool.com/video/m3u8/2021/01/17/14fbce34/playlist.m3u8
+心疼你的坦诚 DjEthan翊轩,https://kq.bgp.68tool.com/video/m3u8/2021/01/15/ee7bf743/playlist.m3u8
+你怎么说走就走 DJ阿圣,https://kq.bgp.68tool.com/video/m3u8/2021/01/14/3a7d4438/playlist.m3u8
+我又想你了 DJ九天,https://kq.bgp.68tool.com/video/m3u8/2021/01/14/bba37be9/playlist.m3u8
+最爱就是你 DJ伟然,https://kq.bgp.68tool.com/video/m3u8/2021/01/14/ed12a13f/playlist.m3u8
+逃爱 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2021/01/14/7e9e7435/playlist.m3u8
+拥抱你离去 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/01/14/4342bb56/playlist.m3u8
+情非得已 DJ阿帆,https://kq.bgp.68tool.com/video/m3u8/2021/01/14/b9d8d318/playlist.m3u8
+我的小女人 DJ阿圣,https://kq.bgp.68tool.com/video/m3u8/2021/01/11/395fc161/playlist.m3u8
+[Mp4]时光老去,https://kq.bgp.68tool.com/video/m3u8/2021/01/11/98913385/playlist.m3u8
+[Mp4]是我不够好,https://kq.bgp.68tool.com/video/m3u8/2021/01/11/44d4f714/playlist.m3u8
+[Mp4]为情所伤,https://kq.bgp.68tool.com/video/m3u8/2021/01/09/a3e82b42/playlist.m3u8
+[Mp4]烟花三月,https://kq.bgp.68tool.com/video/m3u8/2021/01/09/5830eedf/playlist.m3u8
+[Mp4]欢喜就好,https://kq.bgp.68tool.com/video/m3u8/2021/01/09/672ba52e/playlist.m3u8
+[Mp4]单身情歌,https://kq.bgp.68tool.com/video/m3u8/2021/01/09/6e4f1094/playlist.m3u8
+[Mp4]飘雪,https://kq.bgp.68tool.com/video/m3u8/2021/01/03/4d84c979/playlist.m3u8
+[Mp4]我的唇吻不到我爱的人,https://kq.bgp.68tool.com/video/m3u8/2020/12/31/3b706418/playlist.m3u8
+一剪梅 DjPad仔,https://kq.bgp.68tool.com/video/m3u8/2020/12/28/30d9ec34/playlist.m3u8
+360环绕 唯一的小丑 DJ阿圣,https://kq.bgp.68tool.com/video/m3u8/2020/12/26/43ef67cd/playlist.m3u8
+就算一生等待无功而返 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2020/12/26/fcdab14b/playlist.m3u8
+世界这么大还是遇见你 DJ阿福,https://kq.bgp.68tool.com/video/m3u8/2020/12/26/28874787/playlist.m3u8
+无期 DJJoAn乔安,https://kq.bgp.68tool.com/video/m3u8/2020/12/26/3a7456aa/playlist.m3u8
+草原最美的花 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/12/26/cca3ef7c/playlist.m3u8
+忘情牛肉面 DJ可乐,https://kq.bgp.68tool.com/video/m3u8/2020/12/25/96a3bd31/playlist.m3u8
+往事只能回味 Dj杨铭权,https://kq.bgp.68tool.com/video/m3u8/2020/12/25/6c6cf8e9/playlist.m3u8
+360环绕 财运滚滚来 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/12/25/75b9bfcc/playlist.m3u8
+360环绕 平凡之路 DJYg,https://kq.bgp.68tool.com/video/m3u8/2020/12/25/e5b9de37/playlist.m3u8
+360环绕 世间美好与你环环相扣 DJ小秋,https://kq.bgp.68tool.com/video/m3u8/2020/12/21/575a9acb/playlist.m3u8
+360环绕 暗示分离 DJ泽仔VsDJ小伟,https://kq.bgp.68tool.com/video/m3u8/2020/12/21/0c2b16e1/playlist.m3u8
+360环绕 桥边姑娘 DjPad仔,https://kq.bgp.68tool.com/video/m3u8/2020/12/21/6a0dcc61/playlist.m3u8
+360环绕 DJ小鱼儿,https://kq.bgp.68tool.com/video/m3u8/2020/12/21/359217b2/playlist.m3u8
+相思渡口 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2020/12/20/4564d7f9/playlist.m3u8
+乐凡vs祁隆 等你等了那么久 DJ阿珲,https://kq.bgp.68tool.com/video/m3u8/2020/12/20/a1346736/playlist.m3u8
+打碎 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2020/12/20/904f5bbc/playlist.m3u8
+360环绕 蒋蒋VS曲肖冰 当真 DJ铭仔,https://kq.bgp.68tool.com/video/m3u8/2020/12/20/2d6ba2a7/playlist.m3u8
+雨花石 DJ王绎龙,https://kq.bgp.68tool.com/video/m3u8/2020/12/20/24b41930/playlist.m3u8
+丢了幸福的猪 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/12/18/8b63e48f/playlist.m3u8
+十年以后 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/12/18/6a5678ad/playlist.m3u8
+汤潮vs小沈阳 美了美了 DJCANDY,https://kq.bgp.68tool.com/video/m3u8/2020/12/18/f90c4149/playlist.m3u8
+阳光总在风雨后 DJ聪仔,https://kq.bgp.68tool.com/video/m3u8/2020/12/14/ecb3dc90/playlist.m3u8
+风筝误 dj吴聪,https://kq.bgp.68tool.com/video/m3u8/2020/12/14/7325292a/playlist.m3u8
+抹去泪水 DJ奶爸,https://kq.bgp.68tool.com/video/m3u8/2020/12/14/95b0e172/playlist.m3u8
+出山 DjLftty凌风,https://kq.bgp.68tool.com/video/m3u8/2020/12/12/b4475d32/playlist.m3u8
+爱上抖音爱上你 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2020/12/12/3f05b819/playlist.m3u8
+忘记你需要多久 Dj Jero,https://kq.bgp.68tool.com/video/m3u8/2020/12/12/de970809/playlist.m3u8
+踏浪 Dj HeArts,https://kq.bgp.68tool.com/video/m3u8/2020/12/01/af05e8a2/playlist.m3u8
+我不是个好东西 Mcyy,https://kq.bgp.68tool.com/video/m3u8/2020/11/30/33c909e6/playlist.m3u8
+曾经心痛 DjPad仔,https://kq.bgp.68tool.com/video/m3u8/2020/11/28/548ee986/playlist.m3u8
+广东爱情故事 DjPad仔,https://kq.bgp.68tool.com/video/m3u8/2020/11/28/c9665c28/playlist.m3u8
+生僻字 Dj炮哥,https://kq.bgp.68tool.com/video/m3u8/2020/11/22/e75f983d/playlist.m3u8
+吴迪 蒙安 哲宇 千顺 什么是兄弟 DJ花哨,https://kq.bgp.68tool.com/video/m3u8/2020/11/22/75042361/playlist.m3u8
+念旧 DjLeo,https://kq.bgp.68tool.com/video/m3u8/2020/11/22/e34ee9fc/playlist.m3u8
+追光者 DjBonnYBo,https://kq.bgp.68tool.com/video/m3u8/2020/11/21/795ef2ea/playlist.m3u8
+爱的故事上集 DjYears,https://kq.bgp.68tool.com/video/m3u8/2020/11/20/2181fd5b/playlist.m3u8
+痛痛快快醉一回 DJ酱爆鱿鱼,https://kq.bgp.68tool.com/video/m3u8/2020/11/20/03e99882/playlist.m3u8
+性情的人 DJ小秋,https://kq.bgp.68tool.com/video/m3u8/2020/11/20/9d6ee502/playlist.m3u8
+牛在飞 DJ-Pby,https://kq.bgp.68tool.com/video/m3u8/2020/11/20/4a11177e/playlist.m3u8
+勉为其难 DJ小秋,https://kq.bgp.68tool.com/video/m3u8/2020/11/17/5c8c9b97/playlist.m3u8
+蓝琪儿vs姚大,https://kq.bgp.68tool.com/video/m3u8/2020/10/25/9a2f8bbc/playlist.m3u8
+关于朋友 DJ阿圣,https://kq.bgp.68tool.com/video/m3u8/2020/10/21/d07c4560/playlist.m3u8
+南山南 DJ阿亮,https://kq.bgp.68tool.com/video/m3u8/2020/10/16/3cb40b0d/playlist.m3u8
+如果一切可以重来 DJ伟伟,https://kq.bgp.68tool.com/video/m3u8/2020/10/16/e596188a/playlist.m3u8
+离岸 Dj9锐凌风,https://kq.bgp.68tool.com/video/m3u8/2020/10/16/72733049/playlist.m3u8
+狼本色 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/10/15/7dfee96b/playlist.m3u8
+你是我曾经拼了命爱过的人,https://kq.bgp.68tool.com/video/m3u8/2020/10/10/bb3c2a7b/playlist.m3u8
+分手就分手 DJ夜猫,https://kq.bgp.68tool.com/video/m3u8/2020/09/26/01185a06/playlist.m3u8
+你的答案 DJ小M,https://kq.bgp.68tool.com/video/m3u8/2020/09/24/af7845a7/playlist.m3u8
+我不做你娘娘 DJ王绎龙,https://kq.bgp.68tool.com/video/m3u8/2020/09/15/aa5d7c44/playlist.m3u8
+断桥残雪 DJ董浩浩,https://kq.bgp.68tool.com/video/m3u8/2020/09/15/d6a957d7/playlist.m3u8
+抖音神曲,你冰冻成河 DJ京仔,https://kq.bgp.68tool.com/video/m3u8/2020/08/29/b0d4bacf/playlist.m3u8
+其实我不想哭泣 Dj何鹏,https://kq.bgp.68tool.com/video/m3u8/2020/08/29/902b75d6/playlist.m3u8
+我问天我问地 Dj何鹏,https://kq.bgp.68tool.com/video/m3u8/2020/08/29/ce3c1558/playlist.m3u8
+360环绕 又见山里红 Dj阿远,https://kq.bgp.68tool.com/video/m3u8/2020/08/29/ebf49202/playlist.m3u8
+今生爱的就是你 DjAlex.x,https://kq.bgp.68tool.com/video/m3u8/2020/08/29/78c3cb8c/playlist.m3u8
+隐形的翅膀 Dj大禹,https://kq.bgp.68tool.com/video/m3u8/2020/08/29/f2a8004f/playlist.m3u8
+思密达 DJ阿圣,https://kq.bgp.68tool.com/video/m3u8/2020/08/27/5e769f49/playlist.m3u8
+爱情解药 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2020/08/27/13ac2b20/playlist.m3u8
+随风飞 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2020/08/27/45f3f682/playlist.m3u8
+许多年以后 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2020/08/20/528a7d32/playlist.m3u8
+爱情过客 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/08/20/1465288f/playlist.m3u8
+有个傻瓜爱过你 DJcandy,https://kq.bgp.68tool.com/video/m3u8/2020/08/20/1bf3fba5/playlist.m3u8
+开业大吉 DJ阿远,https://kq.bgp.68tool.com/video/m3u8/2020/08/20/a1395c6e/playlist.m3u8
+断情刀 DJ默涵版,https://kq.bgp.68tool.com/m3u8/2023/11/21/92d39080391d7a21/playlist.m3u8
+为什么这样对我 DJ默涵版,https://kq.bgp.68tool.com/m3u8/2023/11/21/38f9dcdca9564c6d/playlist.m3u8
+乘风来 DJ版,https://kq.bgp.68tool.com/m3u8/2023/11/13/0d4c8bbea518641f/playlist.m3u8
+今天 DJ京仔,https://kq.bgp.68tool.com/m3u8/2023/11/13/b4673ccb96201931/playlist.m3u8
+匆匆这一生 DJ彭锐版,https://kq.bgp.68tool.com/m3u8/2023/11/13/270f614855b5b9e4/playlist.m3u8
+极致动感旋律 DJ雪糕国会鼓飘版,https://kq.bgp.68tool.com/m3u8/2023/11/06/e3063ef3315ca298/playlist.m3u8
+动感欢快ProgHouse旋律 DJ雪糕开场版,https://kq.bgp.68tool.com/m3u8/2023/11/06/a6c0e3728ffba441/playlist.m3u8
+东风误 DJ版,https://kq.bgp.68tool.com/m3u8/2023/11/01/2a01f220e113fefe/playlist.m3u8
+午夜风太大 DJ默涵版,https://kq.bgp.68tool.com/m3u8/2023/10/26/c4ff26b1db71efdd/playlist.m3u8
 河南酒店,#genre#
 CCTV1,http://171.8.200.144:808/hls/1/index.m3u8
 CCTV2,http://171.8.200.144:808/hls/2/index.m3u8
@@ -1456,6 +2141,58 @@ CCTV15,http://171.8.200.144:808/hls/15/index.m3u8
 江西卫视,http://171.8.200.144:808/hls/43/index.m3u8
 湖北卫视,http://171.8.200.144:808/hls/44/index.m3u8
 CCTV 怀旧剧场,http://112.103.141.175:8083/hls/96/index.m3u8
+
+珠海酒店,#genre#
+CCTV1综合,http://183.63.15.42:9901/tsfile/live/37321_1.m3u8
+CCTV2财经,http://183.63.15.42:9901/tsfile/live/37322_1.m3u8
+CCTV3综艺,http://183.63.15.42:9901/tsfile/live/37323_1.m3u8
+CCTV4中文国际,http://183.63.15.42:9901/tsfile/live/37324_1.m3u8
+CCTV5体育,http://183.63.15.42:9901/tsfile/live/37325_1.m3u8
+CCTV6电影,http://183.63.15.42:9901/tsfile/live/37326_1.m3u8
+CCTV7国防军事,http://183.63.15.42:9901/tsfile/live/37327_1.m3u8
+CCTV8电视剧,http://183.63.15.42:9901/tsfile/live/37328_1.m3u8
+CCTV9纪录,http://183.63.15.42:9901/tsfile/live/37329_1.m3u8
+CCTV10科教,http://183.63.15.42:9901/tsfile/live/37330_1.m3u8
+CCTV11戏曲,http://183.63.15.42:9901/tsfile/live/37331_1.m3u8
+CCTV12社会与法,http://183.63.15.42:9901/tsfile/live/37332_1.m3u8
+CCTV13新闻,http://183.63.15.42:9901/tsfile/live/37333_1.m3u8
+CCTV14少儿,http://183.63.15.42:9901/tsfile/live/37334_1.m3u8
+CCTV15音乐,http://183.63.15.42:9901/tsfile/live/37335_1.m3u8
+CCTVNEWS,http://183.63.15.42:9901/tsfile/live/37336_1.m3u8
+CCTV17农业,http://183.63.15.42:9901/tsfile/live/37337_1.m3u8
+广东卫视,http://183.63.15.42:9901/tsfile/live/37338_1.m3u8
+广东珠江,http://183.63.15.42:9901/tsfile/live/37339_1.m3u8
+广东新闻,http://183.63.15.42:9901/tsfile/live/37340_1.m3u8
+广东公共,http://183.63.15.42:9901/tsfile/live/37341_1.m3u8
+广东体育,http://183.63.15.42:9901/tsfile/live/37342_1.m3u8
+湖南卫视,http://183.63.15.42:9901/tsfile/live/37343_1.m3u8
+浙江卫视,http://183.63.15.42:9901/tsfile/live/37344_1.m3u8
+江苏卫视,http://183.63.15.42:9901/tsfile/live/37345_1.m3u8
+东方卫视,http://183.63.15.42:9901/tsfile/live/37346_1.m3u8
+安徽卫视,http://183.63.15.42:9901/tsfile/live/37347_1.m3u8
+北京卫视,http://183.63.15.42:9901/tsfile/live/37348_1.m3u8
+天津卫视,http://183.63.15.42:9901/tsfile/live/37349_1.m3u8
+山东卫视,http://183.63.15.42:9901/tsfile/live/37350_1.m3u8
+江西卫视,http://183.63.15.42:9901/tsfile/live/37351_1.m3u8
+深圳卫视,http://183.63.15.42:9901/tsfile/live/37352_1.m3u8
+湖北卫视,http://183.63.15.42:9901/tsfile/live/37353_1.m3u8
+辽宁卫视,http://183.63.15.42:9901/tsfile/live/37354_1.m3u8
+黑龙江卫视,http://183.63.15.42:9901/tsfile/live/37355_1.m3u8
+贵州卫视,http://183.63.15.42:9901/tsfile/live/37356_1.m3u8
+四川卫视,http://183.63.15.42:9901/tsfile/live/37357_1.m3u8
+河南卫视,http://183.63.15.42:9901/tsfile/live/37358_1.m3u8
+云南卫视,http://183.63.15.42:9901/tsfile/live/37359_1.m3u8
+重庆卫视,http://183.63.15.42:9901/tsfile/live/37360_1.m3u8
+河北卫视,http://183.63.15.42:9901/tsfile/live/37361_1.m3u8
+东南卫视,http://183.63.15.42:9901/tsfile/live/37362_1.m3u8
+广西卫视,http://183.63.15.42:9901/tsfile/live/37363_1.m3u8
+吉林卫视,http://183.63.15.42:9901/tsfile/live/37364_1.m3u8
+陕西卫视,http://183.63.15.42:9901/tsfile/live/37365_1.m3u8
+山西卫视,http://183.63.15.42:9901/tsfile/live/37366_1.m3u8
+内蒙古卫视,http://183.63.15.42:9901/tsfile/live/37367_1.m3u8
+青海卫视,http://183.63.15.42:9901/tsfile/live/37368_1.m3u8
+海南卫视,http://183.63.15.42:9901/tsfile/live/37369_1.m3u8
+宁夏卫视,http://183.63.15.42:9901/tsfile/live/37370_1.m3u8
 华数频道,#genre#
 地理,http://61.48.47.78:7000/rtp/239.3.1.71:4120
 美妆,http://61.48.47.78:7000/rtp/239.3.1.72:4120
@@ -1478,7 +2215,13 @@ CCTV 怀旧剧场,http://112.103.141.175:8083/hls/96/index.m3u8
 星影,http://61.48.47.78:7000/rtp/239.3.1.94:4120
 爱生活,http://61.48.47.78:7000/rtp/239.3.1.86:4120
 4K世界,#genre#
+频道预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+高清风景,http://185.57.68.33:8091/232/playlist.m3u8
 
+STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
+FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
+FILM1,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283331&extension=ts&play_token=5UQcDZPJrB
+SONY MAX,http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -1507,7 +2250,7 @@ Animal Planet,http://199.127.60.83:16192/
 A&E,http://199.127.60.83:16002/
 MS Young Blood,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/16147/index.m3u8
 Dazn F1,http://8fdcf128.cbilant.com/iptv/UPCF5W5XELFMAR/6071/index.m3u8
-
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
 
 电影频道,#genre#
@@ -1831,6 +2574,102 @@ yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
 埋堆堆29,http://137.175.111.185/huya/?id=23735153
 埋堆堆30,http://137.175.111.185/huya/?id=23734246
 埋堆堆31,http://137.175.111.185/huya/?id=23863796
+
+孤岛飞鹰,#genre#
+孤岛飞鹰1,https://vip.ffzy-online3.com/20230122/3551_5d67ef34/index.m3u8
+孤岛飞鹰2,https://vip.ffzy-online3.com/20230122/3552_467bf7c4/index.m3u8
+孤岛飞鹰3,https://vip.ffzy-online3.com/20230122/3553_0808776a/index.m3u8
+孤岛飞鹰4,https://vip.ffzy-online3.com/20230122/3554_93eae612/index.m3u8
+孤岛飞鹰5,https://vip.ffzy-online3.com/20230122/3555_3e3958e4/index.m3u8
+孤岛飞鹰6,https://vip.ffzy-online3.com/20230122/3556_14ee36f7/index.m3u8
+孤岛飞鹰7,https://vip.ffzy-online3.com/20230122/3557_1b38c5b0/index.m3u8
+孤岛飞鹰8,https://vip.ffzy-online3.com/20230122/3558_2c8f6219/index.m3u8
+孤岛飞鹰9,https://vip.ffzy-online3.com/20230122/3559_df1b2046/index.m3u8
+孤岛飞鹰10,https://vip.ffzy-online3.com/20230122/3560_b89cc1d2/index.m3u8
+
+刺客列传,#genre#
+刺客列传-荆轲1,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/fe9660648658/playlist.m3u8
+刺客列传-荆轲2,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/bd63de27f35b/playlist.m3u8
+刺客列传-荆轲3,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/ea8f7f2b55e4/playlist.m3u8
+刺客列传-荆轲4,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/79c46edaead4/playlist.m3u8
+刺客列传-荆轲5,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/0a60d602f6bc/playlist.m3u8
+刺客列传-荆轲6,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/d5ab7faf8f08/playlist.m3u8
+刺客列传-荆轲7,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/17798503a89f/playlist.m3u8
+刺客列传-荆轲8,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/ae4fefe3aeef/playlist.m3u8
+刺客列传-荆轲9,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/b5c0f8a7e56e/playlist.m3u8
+刺客列传-荆轲10,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/f239027b3ff2/playlist.m3u8
+刺客列传-荆轲11,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/1a18c0a6979d/playlist.m3u8
+刺客列传-荆轲12,https://sd7.taopianplay1.com:43333/c56b1bc09da3/HD/2024-01-01/15/28d5244ee609/09b379ec1791/playlist.m3u8
+
+天地男儿,#genre#
+天地男儿1,https://vip.ffzy-online.com/20221023/3014_12960be5/index.m3u8
+天地男儿2,https://vip.ffzy-online.com/20221023/3015_b3c1044f/index.m3u8
+天地男儿3,https://vip.ffzy-online.com/20221023/3017_458f97b4/index.m3u8
+天地男儿4,https://vip.ffzy-online.com/20221023/3016_d43fce05/index.m3u8
+天地男儿5,https://vip.ffzy-online.com/20221023/3018_6c23e199/index.m3u8
+
+笑看风云,#genre#
+笑看风云1,https://vip.ffzy-play.com/20221114/17605_23932af9/index.m3u8
+笑看风云2,https://vip.ffzy-play.com/20221114/17606_fbdffda7/index.m3u8
+笑看风云3,https://vip.ffzy-play.com/20221114/17608_5a7fc3e5/index.m3u8
+笑看风云4,https://vip.ffzy-play.com/20221114/17607_c7c92852/index.m3u8
+笑看风云5,https://vip.ffzy-play.com/20221114/17609_0ae1ed5b/index.m3u8
+笑看风云6,https://vip.ffzy-play.com/20221114/17611_99d3398a/index.m3u8
+笑看风云7,https://vip.ffzy-play.com/20221114/17610_4f383ef2/index.m3u8
+笑看风云8,https://vip.ffzy-play.com/20221114/17613_4861a013/index.m3u8
+笑看风云9,https://vip.ffzy-play.com/20221114/17612_0dc5f7fa/index.m3u8
+笑看风云10,https://vip.ffzy-play.com/20221114/17615_47b3fd9c/index.m3u8
+
+清明上河图,#genre#
+
+清明上河图1,https://vip.ffzy-play9.com/20221230/30099_37432625/index.m3u8
+清明上河图2,https://vip.ffzy-play9.com/20221230/30100_37248450/index.m3u8
+清明上河图3,https://vip.ffzy-play9.com/20221230/30101_47a16657/index.m3u8
+清明上河图4,https://vip.ffzy-play9.com/20221230/30103_a218ac3d/index.m3u8
+清明上河图5,https://vip.ffzy-play9.com/20221230/30102_2bd0fa6b/index.m3u8
+清明上河图6,https://vip.ffzy-play9.com/20221230/30104_6d3bb70b/index.m3u8
+清明上河图7,https://vip.ffzy-play9.com/20221230/30105_d2247100/index.m3u8
+清明上河图8,https://vip.ffzy-play9.com/20221230/30106_272abeb5/index.m3u8
+清明上河图9,https://vip.ffzy-play9.com/20221230/30108_8783ab7c/index.m3u8
+清明上河图10,https://vip.ffzy-play9.com/20221230/30110_5503a243/index.m3u8
+
+搞笑一家人,#genre#
+戏说乾隆1,https://vip.ffzy-online1.com/20230604/40608_556ef042/index.m3u8
+戏说乾隆2,https://vip.ffzy-online1.com/20230604/40609_690df6cc/index.m3u8
+戏说乾隆3,https://vip.ffzy-online1.com/20230604/40610_09eccc6d/index.m3u8
+戏说乾隆4,https://vip.ffzy-online1.com/20230604/40611_d38d82e3/index.m3u8
+戏说乾隆5,https://vip.ffzy-online1.com/20230604/40612_3f262bc6/index.m3u8
+戏说乾隆6,https://vip.ffzy-online1.com/20230604/40613_4618b79e/index.m3u8
+戏说乾隆7,https://vip.ffzy-online1.com/20230604/40614_77e4ca15/index.m3u8
+戏说乾隆8,https://vip.ffzy-online1.com/20230604/40615_d1120e41/index.m3u8
+戏说乾隆9,https://vip.ffzy-online1.com/20230604/40616_365894ff/index.m3u8
+戏说乾隆10,https://vip.ffzy-online1.com/20230604/40617_66bef980/index.m3u8
+戏说乾隆11,https://vip.ffzy-online1.com/20230604/40618_88a0e30a/index.m3u8
+戏说乾隆12,https://vip.ffzy-online1.com/20230604/40619_2ed1ce81/index.m3u8
+
+搞笑一家人,#genre#
+诸葛亮1,https://v.cdnlz17.com/20231011/29066_2c2d1fa8/index.m3u8
+诸葛亮2,https://v.cdnlz17.com/20231011/29067_1e6cc5ea/index.m3u8
+诸葛亮3,https://v.cdnlz17.com/20231011/29068_5005dc3c/index.m3u8
+
+搞笑一家人,#genre#
+成长的烦恼1,https://vip.lz-cdn17.com/20230402/6639_440b6473/index.m3u8
+成长的烦恼2,https://vip.lz-cdn17.com/20230402/6640_0ac9fb71/index.m3u8
+成长的烦恼3,https://vip.lz-cdn17.com/20230402/6644_ad647602/index.m3u8
+成长的烦恼4,https://vip.lz-cdn17.com/20230402/6645_cb916c2a/index.m3u8
+搞笑一家人,#genre#
+搞笑一家人1,https://vip.lz-cdn16.com/20230316/12848_de9404b1/index.m3u8
+搞笑一家人2,https://vip.lz-cdn16.com/20230316/12849_ace54cc4/index.m3u8
+搞笑一家人3,https://vip.lz-cdn16.com/20230316/12851_9207bb8e/index.m3u8
+搞笑一家人4,https://vip.lz-cdn16.com/20230316/12853_75ddc3d3/index.m3u8
+搞笑一家人5,https://vip.lz-cdn16.com/20230316/12855_9d93ace6/index.m3u8
+搞笑一家人6,https://vip.lz-cdn16.com/20230316/12856_6e94eac1/index.m3u8
+搞笑一家人7,https://vip.lz-cdn16.com/20230316/12854_06912db4/index.m3u8
+搞笑一家人8,https://vip.lz-cdn16.com/20230316/12857_c098e8b0/index.m3u8
+搞笑一家人9,https://vip.lz-cdn16.com/20230316/12858_60e4eb86/index.m3u8
+搞笑一家人10,https://vip.lz-cdn16.com/20230316/12860_811edcf8/index.m3u8
+
+
 美国-频道,#genre#
 ABC News 10,https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 ABC News 4,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
@@ -2099,6 +2938,67 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 爱尔达影剧台,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
+
+历年春晚,#genre#
+1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+1984年,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+1985年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+1985年,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+1986年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+1986年,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hls15.m3u8
+1987年,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+1988年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+1989年,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+1991年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+1991年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hls15.m3u8
+1992年,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hls15.m3u8
+1993年,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+1993年,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hls15.m3u8
+1994年,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hls15.m3u8
+1995年,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+1995年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hls15.m3u8
+1997年,https://txmov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+1997年,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hls15.m3u8
+1998年,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hls15.m3u8
+1999年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+1999年,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hls15.m3u8
+2000年,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+2000年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hls15.m3u8
+2001年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+2001年,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hls15.m3u8
+2002年,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+2002年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hls15.m3u8
+2003年,https://txmov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+2004年,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hls15.m3u8
+2005年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+2005年,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hls15.m3u8
+2006年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+2006年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hls15.m3u8
+2007年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+2007年,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hls15.m3u8
+2008年,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+2008年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hls15.m3u8
+2009年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+2009年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hls15.m3u8
+2010年,https://txmov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+2011年,https://txmov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+2013年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+2014年,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+2014年,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hls15.m3u8
+2015年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+2017年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+2018年,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2019年,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hls15.m3u8
+2020年,https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+2020年,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hls15.m3u8
+2020年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+2021年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hls15.m3u8
 
 短剧系列,#genre#
 荒岛求生,https://vd2.bdstatic.com/mda-piib0hndjikd5wqr/sc/cae_h264/1695207477178936519/mda-piib0hndjikd5wqr.mp4
@@ -2925,3 +3825,93 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 石河子经济,http://124.88.144.73:1935/live/dywt/playlist.m3u8
 石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+
+黑龙江,#genre#
+克山综合,https://masterpull.hljtv.com/live/58lOw0L5.m3u8
+克东综合,https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
+拜泉综合,https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
+杜尔伯特综合,https://masterpull.hljtv.com/live/eCNHwyyW.m3u8
+饶河综合,https://masterpull.hljtv.com/live/DokNxER6.m3u8
+友谊综合,https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
+勃利综合,https://masterpull.hljtv.com/live/6rx9bifO.m3u8
+呼玛综合,https://masterpull.hljtv.com/live/yN3vDovm.m3u8
+讷河综合,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
+依安综合,https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
+嫩江综合,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
+五大连综合,https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
+龙江综合,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
+海林综合,https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
+孙吴综合,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
+宝清综合,https://masterpull.hljtv.com/live/HBp9MLoA.m3u8
+塔河综合,https://masterpull.hljtv.com/live/qXrATpGj.m3u8
+集贤综合,https://masterpull.hljtv.com/live/CyJ3RKND.m3u8
+漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
+东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
+宁安综合,https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
+穆棱综合,https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
+逊克综合,https://masterpull.hljtv.com/live/a0CULO9O.m3u8
+林口综合,https://masterpull.hljtv.com/live/pqheD07F.m3u8
+北安综合,https://masterpull.hljtv.com/live/EfoBDa06.m3u8
+延寿综合,https://masterpull.hljtv.com/live/XBqKssjB.m3u8
+依兰综合,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
+五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
+通河综合,https://masterpull.hljtv.com/live/b71kCDir.m3u8
+巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
+方正综合,https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
+呼兰综合,https://masterpull.hljtv.com/live/zja8TAIO.m3u8
+宾县综合,https://masterpull.hljtv.com/live/DlkgB2B7.m3u8
+肇东综合,https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
+望奎综合,https://masterpull.hljtv.com/live/d3loVdqX.m3u8
+青冈综合,https://masterpull.hljtv.com/live/bJGIloJe.m3u8
+绥棱综合,https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
+庆安综合,https://masterpull.hljtv.com/live/ayksl1Ur.m3u8
+明水综合,https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
+肇源综合,https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
+肇州综合,https://masterpull.hljtv.com/live/imOHYJ77.m3u8
+富锦综合,https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
+抚远综合,https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
+桦川综合,https://masterpull.hljtv.com/live/NYQcW0fS.m3u8
+桦南综合,https://masterpull.hljtv.com/live/76oCVZd3.m3u8
+汤原综合,https://masterpull.hljtv.com/live/lt2CmppY.m3u8
+同江综合,https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
+安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
+海伦综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
+兰西综合,https://masterpull.hljtv.com/live/SYG06DEw.m3u8
+泰来综合,https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
+嘉荫综合,https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
+甘南综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
+绥芬河综合,https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
+绥滨综合,https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
+富裕综合,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
+铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
+尚志综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
+绥化新闻综合高清,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
+大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
+黑河新闻综合,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
+伊春绿色林都,https://livesr.dbw.cn/lsdream/6i4bn74/2000/live.m3u8
+虎林综合,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
+密山综合,https://masterpull.hljtv.com/live/iYi97JTN.m3u8
+鸡东综合,https://masterpull.hljtv.com/live/o4NExHSz.m3u8
+汤旺综合,https://vod.center.hljtv.com/lsdream/owpe61C/b19iw4e.m3u8
+
+七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+七台河矿区综合,https://play-hsbj.vzan.com/slowlive/967809790087592502/live.m3u8
+
+哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨都市资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+齐齐哈尔新闻综合,https://pili-live-hls-kanqi.tianma3600.com/kanqi/vdo1xinwenpd.m3u8
+
+
+黑龙江都市高清,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龙江公共农业高清,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龙江影视高清,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+黑龙江文体高清,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龙江新闻法治高清,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+黑龙江少儿高清,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+
+
