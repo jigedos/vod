@@ -1,11 +1,10 @@
-24-2-6,#genre#
+24-2-9,#genre#
 关注新号,#genre#
 新公众号,https://jihulab.com/jigedos/gao/-/raw/master/3.mp4?inline=false
 非凡小小,https://jihulab.com/jigedos/gao/-/raw/master/01.mp4?ref_type=heads&inline=false
 ========,https://jihulab.com/jigedos/gao/-/raw/master/02.mp4?ref_type=heads&inline=false
-频道预览2,http://175.207.220.199:9981/stream/channelid/454725470?ticket=
-频道预览3,http://175.207.220.199:9981/stream/channelid/256178647?ticket=
-频道预览4,http://175.207.220.199:9981/stream/channelid/1204857893?ticket=
+全家同享,http://hz1.teleport.cc/HLS/SD.m3u8
+稳定有效,http://live.m2。tv/hls3/720/stream.m3u8
 
 河南电信C,#genre#
 CCTV1,http://171.8.138.75:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -62,7 +61,7 @@ CCTV2,http://60.188.45.178:8888/newlive/live/hls/3/live.m3u8
 CCTV3,http://60.188.45.178:8888/newlive/live/hls/4/live.m3u8
 CCTV4,http://60.188.45.178:8888/newlive/live/hls/5/live.m3u8
 CCTV5,http://60.188.45.178:8888/newlive/live/hls/6/live.m3u8
-CCTV5+,http://60.188.45.178:8888/newlive/live/hls/7/live.m3u8
+CCTV5+,http://60.188。45.178:8888/newlive/live/hls/7/live.m3u8
 CCTV6,http://60.188.45.178:8888/newlive/live/hls/8/live.m3u8
 CCTV7,http://60.188.45.178:8888/newlive/live/hls/9/live.m3u8
 CCTV8,http://60.188.45.178:8888/newlive/live/hls/10/live.m3u8
