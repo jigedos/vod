@@ -159,9 +159,76 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 
 
 
+央视联通C,#genre#
+CCTV1,http://113.57.21.233:8666/tsfile/live/0001_1.m3u8
+CCTV2,http://113.57.21.233:8666/tsfile/live/0002_1.m3u8
+CCTV3,http://113.57.21.233:8666/tsfile/live/0003_1.m3u8
+CCTV4,http://113.57.21.233:8666/tsfile/live/0004_1.m3u8
+CCTV5,http://113.57.21.233:8666/tsfile/live/0005_1.m3u8
+CCTV6,http://113.57.21.233:8666/tsfile/live/0006_1.m3u8
+CCTV7,http://113.57.21.233:8666/tsfile/live/0007_1.m3u8
+CCTV8,http://113.57.21.233:8666/tsfile/live/0008_1.m3u8
+CCTV9,http://113.57.21.233:8666/tsfile/live/0009_1.m3u8
+CCTV10,http://113.57.21.233:8666/tsfile/live/0010_1.m3u8
+CCTV11,http://113.57.21.233:8666/tsfile/live/0011_1.m3u8
+CCTV12,http://113.57.21.233:8666/tsfile/live/0012_1.m3u8
+CCTV13,http://113.57.21.233:8666/tsfile/live/0013_1.m3u8
+CCTV14,http://113.57.21.233:8666/tsfile/live/0014_1.m3u8
+CCTV15,http://113.57.21.233:8666/tsfile/live/0015_1.m3u8
+CCTV17,http://113.57.21.233:8666/tsfile/live/0019_1.m3u8
+CCTV NEWS,http://113.57。21.233:8666/tsfile/live/1002_1.m3u8
 
+CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+CCTV1,http://220.194.178.58:8888/newlive/live/hls/2/live.m3u8
+CCTV2,http://220.194.178.58:8888/newlive/live/hls/3/live.m3u8
+CCTV3,http://220.194.178.58:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://220.194.178.58:8888/newlive/live/hls/5/live.m3u8
+CCTV5,http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
+CCTV5+,http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
+CCTV6,http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
+CCTV7,http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
+CCTV8,http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
+CCTV9,http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
+CCTV10,http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
+CCTV11,http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
+CCTV12,http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
+CCTV13,http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
+CCTV14,http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
+CCTV15,http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
+CCTV16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
 
+cctv1,http://112.245.53.189:8888/newlive/live/hls/2/live.m3u8
+cctv2,http://112.245.53.189:8888/newlive/live/hls/3/live.m3u8
+cctv3,http://112.245.53.189:8888/newlive/live/hls/4/live.m3u8
+cctv4,http://112.245.53.189:8888/newlive/live/hls/5/live.m3u8
+cctv5,http://112.245.53.189:8888/newlive/live/hls/6/live.m3u8
+cctv6,http://112.245.53.189:8888/newlive/live/hls/7/live.m3u8
+cctv7,http://112.245.53.189:8888/newlive/live/hls/8/live.m3u8
+cctv8,http://112.245.53.189:8888/newlive/live/hls/9/live.m3u8
+cctv9,http://112.245.53.189:8888/newlive/live/hls/10/live.m3u8
+cctv10,http://112.245.53.189:8888/newlive/live/hls/11/live.m3u8
+cctv11,http://112.245.53.189:8888/newlive/live/hls/12/live.m3u8
+cctv12,http://112.245.53.189:8888/newlive/live/hls/13/live.m3u8
+cctv13,http://112.245.53.189:8888/newlive/live/hls/14/live.m3u8
+cctv14,http://112.245.53.189:8888/newlive/live/hls/15/live.m3u8
+cctv15,http://112.245.53.189:8888/newlive/live/hls/16/live.m3u8
+CGTN,http://112.245.53.189:8888/newlive/live/hls/17/live.m3u8
 
+央视电信,#genre#
+CCTV1,http://49.81.209.162:9901/tsfile/live/0001_1.m3u8
+CCTV2,http://49.81.209.162:9901/tsfile/live/0002_1.m3u8
+CCTV3,http://49.81.209.162:9901/tsfile/live/0003_1.m3u8
+CCTV4,http://49.81.209.162:9901/tsfile/live/0004_1.m3u8
+CCTV5,http://49.81.209.162:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://49.81.209.162:9901/tsfile/live/0006_1.m3u8
+CCTV7,http://49.81.209.162:9901/tsfile/live/0007_1.m3u8
+CCTV8,http://49.81.209.162:9901/tsfile/live/0008_1.m3u8
+CCTV9,http://49.81.209.162:9901/tsfile/live/0009_1.m3u8
+CCTV10,http://49.81.209.162:9901/tsfile/live/0010_1.m3u8
+CCTV11,http://49.81.209.162:9901/tsfile/live/0011_1.m3u8
+CCTV12,http://49.81.209.162:9901/tsfile/live/0012_1.m3u8
+CCTV13,http://49.81.209.162:9901/tsfile/live/0013_1.m3u8
+CCTV14,http://49.81.209.162:9901/tsfile/live/0014_1.m3u8
 
 
 
@@ -666,6 +733,23 @@ ICS频道,http://116.237.248.97:7777/tsfile/live/1032_1.m3u8?key=txiptv
 书画,http://61.136.96.78:880/93.m3u8
 动画,http://www.zzmd.fun:8888/rtp/239.3.1.80:4120
 少儿动画,http://www.zzmd.fun:8888/rtp/239.3.1.199:9000
+全球频道,#genre#
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+BRICS台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 有线体育,#genre#
 
@@ -686,142 +770,13 @@ ICS频道,http://116.237.248.97:7777/tsfile/live/1032_1.m3u8?key=txiptv
 
 
 明珠,#genre#
-凤凰卫视,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=1
-凤凰资讯,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=2
-TVB翡翠台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=3
-TVB明珠台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=4
-TVBJ2台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=5
-TVB星河台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=6
-无线新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=7
-无线财经台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=8
-无线财经台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=81
-HOY资讯台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=14
-赛马18台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=18
-NOW新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=55
-VIUTV,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=9
-VIUTV6,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=10
-RTHK31,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=11
-RTHK32,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=12
-天映频道,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=40
-天映经典,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=41
-澳门莲花,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=20
-凤凰中文台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=1
-凤凰资讯台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=2
-香港有线新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=3
-香港有线18台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=4
-TVB无线新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=6
-TVB财经体育资讯台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=7
-TVB翡翠台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=8
-TVB明珠台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=10
-TVB J2,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=11
-TVB星河,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=12
-ViuTV,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=13
-ViuTV6,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=14
-NOW新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=15
-香港国际财经台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=16
-HOY TV,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=17
-HOY资讯台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=18
-港台电视31,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=19
-港台电视32,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=20
-阿里山,#genre#
-澳门莲花,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=20
-民视,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=21
-中视,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=22
-华视,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=23
-台视,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=24
-TVBS台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=25
-TVBS新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=26
-壹新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=37
-镜新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=76
-民视新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=27
-华视新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=28
-中视新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=29
-台视新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=30
-寰宇新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=31
-中天新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=32
-年代新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=33
-东森新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=34
-三立新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=35
-三立LIVE台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=77
-非凡新闻台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=36
-卫视中文台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=44
 
-中天新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=21
-东森新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=22
-东森财经新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=23
-寰宇新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=24
-寰宇新闻台湾台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=25
-台视新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=26
-中视新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=27
-华视新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=28
-TVBS新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=29
-三立新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=30
-三立iNEWS,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=31
-镜电视新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=32
-壹新闻,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=33
-公视新闻,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=34
-民视新闻台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=35
-民视,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=36
-台视,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=37
-中视,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=38
-华视,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=39
-TVBS HD,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=40
-TVBS欢乐台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=41
-中天亚洲台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=42
-TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-三立新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-非凡新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
-中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-壹新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
-民视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+阿里山,#genre#
+
 
 
 港澳文体,#genre#
-东森戏剧台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=38
-东森戏剧台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=71
-东森电影台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=46
-东森洋片台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=47
-龙祥电影台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=48
-龙华戏剧台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=62
-龙华洋片台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=63
-好莱坞电影台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=56
-ELTA影剧台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=45
-CINEMAX电影台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=57
-BOO恐怖台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=69
-Thrill台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=43
-Thrill台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=51
-AXN台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=50
-HBO台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=39
-HBO 家庭台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=78
-探索频道台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=54
-国家地理台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=79
-动物星球台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=80
-纬来体育台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=75
-博斯高球1台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=60
-博斯高球2台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=61
-爱尔达体育Ⅰ台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=72
-爱尔达体育Ⅱ台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=73
-爱尔达体育Ⅲ台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=74
-爱尔达体育四台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=59
-ELEVEN1台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=58
-纬来体育台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=43
-纬来日本台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=44
-纬来育乐台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=45
-ELEVEN 1,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=46
-ELEVEN 2,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=47
-爱尔达体育1台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=48
-爱尔达体育2台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=49
-爱尔达体育3台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=50
-NBA TV,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=51
-MOMO综合台,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=52
-HBO,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=54
-CNN新闻频道,http://hls.xinbi.lol/iptv.php?key=3d43c91119e9c75baceb984cbc0b7807&id=55
+
 
 
 
@@ -2902,7 +2857,72 @@ BYD蹦野迪 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/10/09/a20f8dba/p
 动感欢快ProgHouse旋律 DJ雪糕开场版,https://kq.bgp.68tool.com/m3u8/2023/11/06/a6c0e3728ffba441/playlist.m3u8
 东风误 DJ版,https://kq.bgp.68tool.com/m3u8/2023/11/01/2a01f220e113fefe/playlist.m3u8
 午夜风太大 DJ默涵版,https://kq.bgp.68tool.com/m3u8/2023/10/26/c4ff26b1db71efdd/playlist.m3u8
+测试抖音,#genre#
+美女蹦迪A,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm3b1abc77uamm37cjd0&ratio=720p&line=0
+美女蹦迪B,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmapnk3c77u6oa1qd3u0&ratio=720p&line=0
+美女蹦迪,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckofal3c77ufoh2mbni0&ratio=720p&line=0
+美女蹦迪0,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000claacs3c77u8feoa0hf0&ratio=720p&line=0
+美女蹦迪1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck862fjc77uahikf29pg&ratio=720p&line=0
+美女蹦迪2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cklhg63c77u0oo98nb80&ratio=720p&line=0
+美女蹦迪3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ckn4up3c77u9rhthlsn0&ratio=720p&line=0
+美女蹦迪4,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cl3aqrrc77u5e3qc1qt0&ratio=720p&line=0
+美女蹦迪5,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cl7t5sjc77uf9b83du60&ratio=720p&line=0
+美女蹦迪6,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ckurl5rc77u5rlhbjfl0&ratio=720p&line=0
+美女蹦迪7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cl8nk93c77u1l1r8u8t0&ratio=720p&line=0
+美女蹦迪8,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cldv9ajc77ue5q5skr20&ratio=720p&line=0
+美女蹦迪9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clfui8bc77u3lknr5ft0&ratio=720p&line=0
+美女蹦迪10,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clj8udrc77u5110f1sb0&ratio=720p&line=0
 
+美女蹦迪11,https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000clbmcg3c77uf667bi7ig&ratio=720p&line=0
+
+美女蹦迪12,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgi44cbc77uck5u713t0&ratio=720p&line=0
+美女蹦迪13,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chshue3c77u0pds9k57g&ratio=720p&line=0
+美女蹦迪14,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfic3f3c77ueksj230a0&ratio=720p&line=0
+美女蹦迪15,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chupvhrc77uekde8urjg&ratio=720p&line=0
+美女蹦迪16,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000chgah7jc77u0oflmbqb0&ratio=720p&line=0
+美女蹦迪17,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cgvppq3c77ue98cnqi6g&ratio=720p&line=0
+美女蹦迪18,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cgtrrrbc77u3m6ta98ag&ratio=720p&line=0
+美女蹦迪19,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ch2j8hrc77u52trcoikg&ratio=720p&line=0
+美女蹦迪20,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgrc50jc77u396enskbg&ratio=720p&line=0
+美女蹦迪21,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgl2bgbc77u0llbhqsig&ratio=720p&line=0
+蹦迪美女22,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgpd8b3c77u3c27hvdeg&ratio=720p&line=0
+美女蹦迪23,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgojmmbc77uej8emsu80&ratio=720p&line=0
+美女蹦迪24,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cgkn483c77u8k2s7cisg&ratio=720p&line=0
+美女蹦迪25,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cga11fbc77uaa2fodbeg&ratio=720p&line=0
+美女蹦迪26,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cd5mh6bc77u550ekv9sg&ratio=720p&line=0
+美女蹦迪27,https://m.douyin.com/aweme/v1/playwm/?video_id=v0200fg10000ceh6hrjc77u9chevi780&ratio=720p&line=0
+
+美女蹦迪28,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfh5tibc77ubv2sg7gh0&ratio=720p&line=0
+美女蹦迪29,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfidkibc77u2q71d4330&ratio=720p&line=0
+
+美女蹦迪30,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfm1l9rc77u6m61qb1og&ratio=720p&line=0
+
+美女蹦迪31,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfs401jc77u58h3p8rt0&ratio=720p&line=0
+
+美女蹦迪32,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cg1v1trc77u52rf85mu0&ratio=720p&line=0
+
+美女蹦迪33,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cg8rk8jc77ubkmf5c4ug&ratio=720p&line=0
+美女蹦迪34,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cg5t2ojc77u0mogvhen0&ratio=720p&line=0
+美女蹦迪35,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgi1enrc77ud50mfu4e0&ratio=720p&line=0
+美女蹦迪36,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cglaorrc77ud15en6oi0&ratio=720p&line=0
+美女蹦迪37,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfre3rbc77uf8jfggegg&ratio=720p&line=0
+
+美女蹦迪38,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cf2earjc77u4tbjni210&ratio=720p&line=0
+抖音歌曲39,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce8qph3c77u5gud9ul3g&ratio=720p&line=0
+抖音歌曲40,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce9durjc77u2tsq2b520&ratio=720p&line=0
+抖音歌曲41,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce4spebc77ubji6n0a5g&ratio=720p&line=0
+抖音歌曲42,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce28nqrc77u471qkulmg&ratio=720p&line=0
+抖音歌曲43,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce1ket3c77u5ttb266tg&ratio=720p&line=0
+抖音歌曲44,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce6svbrc77u6kn2keeag&ratio=720p&line=0
+
+抖音歌曲45,https://vd4.bdstatic.com/mda-nmbjwiv87q5qamgp/576p/h264/1670853780030695570/mda-nmbjwiv87q5qamgp.mp4?auth_key=1670857311-0-0-1dce152739dc841e67ebad6687018804&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1911666500&vid=3857074202541838942&abtest=all
+抖音歌曲46,https://vd3.bdstatic.com/mda-nmbjxrirax5k0wre/576p/h264/1670853863587839357/mda-nmbjxrirax5k0wre.mp4?auth_key=1670857218-0-0-55650c0fed9f67d3ca12a638786f698c&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=1818158682&vid=3668250943130153677&abtest=all
+​
+
+抖音歌曲连唱47,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
+
+抖音歌曲连唱48,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
+抖音歌曲连唱49,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4bb7bjc77u3qo5vuu10&ratio=720p&line=0
 4K世界,#genre#
 频道预览1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 高清风景,http://185.57.68.33:8091/232/playlist.m3u8
@@ -2910,7 +2930,7 @@ BYD蹦野迪 DJ何鹏,https://kq.bgp.68tool.com/video/m3u8/2021/10/09/a20f8dba/p
 STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
 FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
 FILM1,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283331&extension=ts&play_token=5UQcDZPJrB
-SONY MAX,http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
+SONY MAX,http://195.26。87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
