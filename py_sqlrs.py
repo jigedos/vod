@@ -1,4 +1,5 @@
-24-2-20,#genre#
+//西红柿
+24-2-23,#genre#
 重温经典,http://111.2.185.168:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 新公众号,https://jihulab.com/jigedos/gao/-/raw/master/3.mp4?inline=false
@@ -7,6 +8,7 @@
 全家同享,http://hz1.teleport.cc/HLS/SD.m3u8
 稳定有效,http://epg.112114。eu。org/bili/14047
 非凡体验,http://epg.112114.eu.org/bili/129975
+
 
 
 2024春节晚会,#genre#
@@ -2927,12 +2929,55 @@ Dazn F1,http://8fdcf128.cbilant.com/iptv/UPCF5W5XELFMAR/6071/index.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 
 
+李翰祥,#genre#
+后门,https://v7.dious.cc/20220619/WJ7msGd6/1500kb/hls/index.m3u8#https://cdn.1080pzy.co/20220515/dXFRwOwI/500kb/hls/index.m3u8
+鬼叫春,https://youku.1080tg.com/20220701/BXB5x2sa/1100kb/hls/index.m3u8
+销魂玉,https://hnzy.bfvvs.com/play/DbD98ynd/index.m3u8#https://vod6.bdzybf7.com/20240121/h2pRpELH/1500kb/hls/index.m3u8
+大军阀(国),https://hnzy.bfvvs.com/play/yb8qzQ2d/index.m3u8#https://v10.dious.cc/20231204/FIUnRvz9/2000kb/hls/index.m3u8#https://v3.dious.cc/20220409/1opcPf2b/1500kb/hls/index.m3u8
+大军阀(粤),https://v10.dious.cc/20231204/VOeC7U73/2000kb/hls/index.m3u8#https://v3.dious.cc/20220409/juMQLYc3/1500kb/hls/index.m3u8
+一乐也,https://s2.bfzycdn.com/video/yileye/HD%E5%9B%BD%E8%AF%AD/index.m3u8#https://vip.ffzy-play7.com/20221207/8513_1cd932e8/2000k/hls/mixed.m3u8#https://vod2.bdzybf7.com/20220330/eq1QKOIc/2000kb/hls/index.m3u8
+港澳传奇,https://a.ak-kk.com/20220615/v2q1GcMl/hls/index.m3u8#https://vod6.bdzybf7.com/20240121/9TXuzDTM/1500kb/hls/index.m3u8
+八旗子弟,https://hnzy.bfvvs.com/play/penZNoRe/index.m3u8
+骗财骗色,https://v3.1080pzy.co/20230207/PJwyO5Mq/1100kb/hls/index.m3u8#https://hnzy.bfvvs.com/play/penZVBEe/index.m3u8#https://youku.1080tg.com/20230208/RNtbsRAV/1100kb/hls/index.m3u8
+军阀趣史,
+骗术奇谭,https://vod6.bdzybf7.com/20240217/z0chYH0e/1500kb/hls/index.m3u8#https://v1.1080tg.com/202308/20/sLFE6Jp9vj2/video/original/hls/index.m3u8#https://youku.1080tg.com/20221208/AV8rq2Tw/1100kb/hls/index.m3u8#https://a.ak-kk.com/20220609/aw2Ldr8l/hls/index.m3u8
+敦煌夜谭,https://v3.1080pzy.co/20221229/cEqB4x8P/1100kb/hls/index.m3u8?dpvt=942742109111994611910510910511346109#https://hnzy.bfvvs.com/play/QeZ4Gm8b/index.m3u8#
+北地胭脂,https://v3.1080pzy.co/20230405/we0f1er2/1100kb/hls/index.m3u8
+声色犬马,https://hnzy.bfvvs.com/play/Pdyrlvwe/index.m3u8
+风流韵事,https://a.ak-kk.com/20220615/V17fbUXH/hls/index.m3u8
+风花雪月,https://hnzy.bfvvs.com/play/1aKO2Zra/index.m3u8#https://a.ak-kk.com/20230711/1E6JmYKJ/hls/index.m3u8
+金瓶风月,
+拈花惹草,https://hot.1080pzy.co/20230918/hJHsli0J/1000kb/hls/index.m3u8#https://youku.1080tg.com/20221117/0qbSv7Xm/1100kb/hls/index.m3u8
+北地胭脂,https://ll.bdzybf9.com/20220220/2du7pVde/2000kb/hls/index.m3u8#https://youku.1080tg.com/20230405/rAgZ4No5/1100kb/hls/index.m3u8
+倩女幽魂,
+火烧圆明园,https://vod6.bdzybf7.com/20240128/pfEe1uIB/1500kb/hls/index.m3u8#https://vod6.bdzybf7.com/20231207/cTzc3tPU/1500kb/hls/index.m3u8
+垂帘听政,https://vod6.bdzybf7.com/20240218/PnARTpuw/1500kb/hls/index.m3u8#https://vod6.bdzybf7.com/20231206/CyCbn2Bc/1500kb/hls/index.m3u8
+雪里红,https://v3.1080tg.com/202309/22/dK0EDVNihT1/video/original/hls/index.m3u8
+一代妖后,https://v1.1080tg.com/202308/19/vUTLiZucK32/video/original/hls/index.m3u8#https://v3.dious.cc/20220417/hgzJr0Ro/1500kb/hls/index.m3u8
+子曰：食色性也,https://hot.1080pzy.co/20230703/yUTVJE07/1000kb/hls/index.m3u8#https://youku.1080tg.com/20220908/WJ8kQIIJ/1100kb/hls/index.m3u8
+三十年细说从头,https://v3.dious.cc/20220418/qTTT5H9O/1500kb/hls/index.m3u8#https://v3.dious.cc/20220418/l79R4VW9/1500kb/hls/index.m3u8#https://hnzy.bfvvs.com/play/DdwnPkMb/index.m3u8
+状元及第,https://vod6.bdzybf7.com/20240206/aUQFGLvi/1500kb/hls/index.m3u8#https://v1.1080tg.com/202308/19/eBEAjX3p662/video/original/hls/index.m3u8
+乾隆下扬州,https://v3.dious.cc/20220409/O4R5uqnm/1500kb/hls/index.m3u8#https://hnzy.bfvvs.com/play/lej065bj/index.m3u8
+乾隆下江南,https://v1.1080tg.com/202308/19/s393QraPfe2/video/original/hls/index.m3u8#https://v3.1080pzy.co/20220627/s41aBDn5/1100kb/hls/index.m3u8
+乾隆皇君臣斗智,https://v3.dious.cc/20220411/eFXM1nSp/1500kb/hls/index.m3u8#https://v3.1080pzy.co/20220627/w7MT2jG5/1100kb/hls/index.m3u8
+乾隆皇与三姑娘,https://v3.dious.cc/20220413/45VAxn7P/1500kb/hls/index.m3u8#https://s1.1080pzy.co/20220620/1PIUmMJV/hls/index.m3u8#https://v1.1080tg.com/202308/19/bwxMVhsWws2/video/original/hls/index.m3u8
 
 
 
-
-
-
+黑名单上的人,#genre#
+第01集,https://v.cdnlz17.com/20231214/87303_4856ee42/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87303_4856ee42/黑名单上的人01.mp4
+第02集,https://v.cdnlz17.com/20231214/87301_5f7e8160/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87301_5f7e8160/黑名单上的人02.mp4
+第03集,https://v.cdnlz17.com/20231214/87302_27e98e78/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87302_27e98e78/黑名单上的人03.mp4
+第04集,https://v.cdnlz17.com/20231214/87304_458834e2/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87304_458834e2/黑名单上的人04.mp4
+第05集,https://v.cdnlz17.com/20231214/87300_319613b8/2000k/hls/mixed.m3u8https://dow.dowlz15.com/20231214/87300_319613b8/黑名单上的人05.mp4
+第06集,https://v.cdnlz17.com/20231214/87305_35251950/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87305_35251950/黑名单上的人06.mp4
+第07集,https://v.cdnlz17.com/20231214/87306_299674cc/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87306_299674cc/黑名单上的人07.mp4
+第08集,https://v.cdnlz17.com/20231214/87307_56449cc8/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87307_56449cc8/黑名单上的人08.mp4
+第09集,https://v.cdnlz17.com/20231214/87311_2121f3a6/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87311_2121f3a6/黑名单上的人09.mp4
+第10集,https://v.cdnlz17.com/20231214/87310_cf7000af/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87310_cf7000af/黑名单上的人10.mp4
+第11集,https://v.cdnlz17.com/20231214/87312_ea5f5af8/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87312_ea5f5af8/黑名单上的人11.mp4
+第12集,https://v.cdnlz17.com/20231214/87309_d484059e/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87309_d484059e/黑名单上的人12.mp4
+第13集,https://v.cdnlz17.com/20231214/87308_d0fcd315/2000k/hls/mixed.m3u8#https://dow.dowlz15.com/20231214/87308_d0fcd315/黑名单上的人13.mp4
 
 
 
