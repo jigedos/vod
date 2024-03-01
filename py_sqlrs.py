@@ -729,6 +729,82 @@ IHOT,#genre#
 爱体育,http://112.17.52.85/PLTV/88888888/224/3221233700/index.m3u8
 爱旅行,http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
 
+港澳资讯,#genre# 
+
+中天综合,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1022
+中天娱乐,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1023
+中天新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1675
+中视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1048
+浙江卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1036
+壹新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1676
+亚洲旅游,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1219
+纬来综合,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1044
+纬来育乐,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1045
+纬来戏剧,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1186
+纬来体育,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1011
+纬来日本,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1026
+纬来电影,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1183
+台视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1047
+厦门卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1033
+三立新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1016
+三立台湾,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1021
+三立都会,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1020
+人间卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1198
+年代新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1192
+民视新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1204
+民视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1050
+旅游生活,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1005
+龙华戏剧台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1671
+龙华日韩剧,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1672
+龙华偶像剧,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1673
+龙华卡通台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1670
+龙华电影台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1677
+镜电视新闻台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1031
+寰宇新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1222
+华视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1049
+湖南卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1038
+好消息GOOD TV,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1669
+好莱坞电影,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1025
+韩国娱乐台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1024
+海峡卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1035
+公视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1201
+鳯凰卫视中文,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1213
+鳯凰卫视信息,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1666
+非凡新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1013
+非凡商业,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1012
+动物星球,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1004
+东森综合,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1041
+东森幼幼,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1008
+东森新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1014
+东森戏剧,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1042
+东森财经,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1017
+东风卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1195
+东方卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1037
+大爱电视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1216
+宠物频道,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1040
+超视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1180
+博斯运动一,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1678
+八大综合,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1019
+八大戏剧,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1057
+八大第一,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1043
+TVBS新闻,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1052
+TVBS欢乐,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1018
+TVBS,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1668
+Trace Sport Stars,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1003
+Taiwan Plus,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1674
+NHK世界,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1027
+MUCH TV,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1189
+momo综合台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1225
+MOMO亲子台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1007
+HBO,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1029
+ELEVEN SPORTS 2,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1072
+ELEVEN SPORTS 1,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1069
+DISCOVERY,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1002
+CINEMAX,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1030
+CCTV4-中央卫视,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1034
+Bloomberg News,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1066
+AXN,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1054
+AMC 电影台,http://43.224.33.165:88/mqitv?server=43.224.33.165:8014&proxy=true&id=live1032
 
 华人圈,#genre# 
 凤凰资讯,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8?key=txiptv
