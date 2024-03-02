@@ -786,25 +786,16 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 凤凰电影,http://111.227.194.192:4022/rtp/239.254.201.1:5214
 凤凰中文,http://111.227.194.192:4022/rtp/239.254.201.2:5226
 凤凰资讯,http://111.227.194.192:4022/rtp/239.254.201.3:5227
-TVB华丽翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB华丽,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+TVB武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB翡翠,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB明珠,http://120.238.13.198:8000/hls/19/index.m3u8
-凤凰卫视,http://120.238.13.198:8000/hls/20/index.m3u8
 
 无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 HOY资讯,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 财经资讯,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
 财经资讯,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
-财经资讯,https://s2.pub/cctv-11
-TVB翡翠,https://s2.pub/cctv-4 
-TVB翡翠,https://s2.pub/cctv-23 
-TVB明珠,https://s2.pub/cctv-6 
-VIUtv1台,https://s2.pub/cctv-7 
-VIUtv2,https://s2.pub/cctv-8 
-HOY77,https://s2.pub/cctv-9 
-HOY78,https://s2.pub/cctv-10 
 
 TVBJ2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 TVB翡翠,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
