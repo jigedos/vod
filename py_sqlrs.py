@@ -1084,6 +1084,12 @@ CYY,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+TVB明珠,http://119.34.189.38:33333/udp/224.1.100.123:11111
+TVB明珠,http://119.34.189.38:33333/udp/224.1.100.2:11111
+凤凰卫视,http://119.34.189.38:33333/udp/224.1.100.3:11111
+TVB翡翠,http://119.34.189.38:33333/udp/224.1.100.121:11111
+TVB翡翠,http://119.34.189.38:33333/udp/224.1.100.1:11111
 RTHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MEFE5444496454444964&ct=19234&tsum=d47d918a346b323bcbbbce0dac0192c5
 RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
 RTHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
@@ -1107,7 +1113,8 @@ TVB J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
 TVB翡翠,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB明珠,http://120.238.13.198:8000/hls/19/index.m3u8
-凤凰中文,http://110.72.64.110:808/hls/62/index.m3u8
+TVB功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+凤凰中文,http://110.72。64.110:808/hls/62/index.m3u8
 凤凰资讯,http://110.72.64.110:808/hls/63/index.m3u8
 星空音乐,http://110.72.64.110:808/hls/64/index.m3u8
 星空卫视,http://110.72.64.110:808/hls/60/index.m3u8
@@ -1225,7 +1232,20 @@ YOYO,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream
 东森美洲中国台,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156393&extension=ts
 东森戏剧,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156395&extension=ts
 东森财经,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156396&extension=ts
-
+公视,http://165.1.79.200:9000/live.m3u8?c=83
+中视,http://165.1.79.200:9000/live.m3u8?c=94
+镜新闻,http://165.1.79.200:9000/live.m3u8?c=76
+Astro AWANI,http://165.1.79.200:9000/live.m3u8?c=164
+中天新闻2,http://165.1.79.200:9000/live.m3u8?c=64
+TVBS新闻,http://165.1.79.200:9000/live.m3u8?c=67
+民视新闻,http://165.1.79.200:9000/live.m3u8?c=66
+中天新闻,http://165.1.79.200:9000/live.m3u8?c=65
+寰宇新闻,http://165.1.79.200:9000/live.m3u8?c=68
+寰宇新闻,http://165.1.79.200:9000/live.m3u8?c=69
+东森财经新闻,http://165.1.79.200:9000/live.m3u8?c=70
+台视新闻,http://165.1.79.200:9000/live.m3u8?c=72
+中视新闻,http://165.1.79.200:9000/live.m3u8?c=74
+东森新闻,http://165.1.79.200:9000/live.m3u8?c=177
 
 
 
