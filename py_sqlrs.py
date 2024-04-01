@@ -1,6 +1,6 @@
 //西红柿
 24-4-1,#genre#
-重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.666cdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典频道,http://1.62。64.234/0b926d37065dc656266be75dd9d25565.v。666cdns。net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 新公众号,https://jihulab.com/jigedos/gao/-/raw/master/3.mp4?inline=false
 非凡小小,https://jihulab.com/jigedos/gao/-/raw/master/01.mp4?ref_type=heads&inline=false
 ========,https://jihulab.com/jigedos/gao/-/raw/master/02.mp4?ref_type=heads&inline=false
@@ -1108,9 +1108,9 @@ CYY,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=
 
 
 明珠,#genre#
-凤凰中文,http://1.62.64.252/1.v.666cdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://1.62.64.252/1.v.666cdns.net/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://1.62.64.252/1.v.666cdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰中文,http://1.62.64.252/1.v.smtcdns。net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://1.62.64.252/1.v.smtcdns。net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://1.62.64.252/1.v.smtcdns。net/qctv.fengshows.cn/live/0701phk72.flv
 
 凤凰香港,http://61.158.166.42:1301/haiou.php?key=haiou666&id=hkphoenix_twn
 凤凰中文,http://61.158.166.42:1301/haiou.php?key=haiou666&id=phoenixtv_hd
