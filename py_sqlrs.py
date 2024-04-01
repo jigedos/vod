@@ -15,6 +15,26 @@
 
 
 央视联通,#genre#
+CCTV1,http://8.134.82.80:32858/ysp/haiouysp.php?id=1
+CCTV2,http://8.134.82.80:32858/ysp/haiouysp.php?id=2
+CCTV3,http://8.134.82.80:32858/ysp/haiouysp.php?id=3
+CCTV4,http://8.134.82.80:32858/ysp/haiouysp.php?id=4
+CCTV5,http://8.134.82.80:32858/ysp/haiouysp.php?id=5
+CCTV5+,http://8.134.82.80:32858/ysp/haiouysp.php?id=6
+CCTV6,http://8.134.82.80:32858/ysp/haiouysp.php?id=7
+CCTV7,http://8.134.82.80:32858/ysp/haiouysp.php?id=8
+CCTV8,http://8.134.82.80:32858/ysp/haiouysp.php?id=9
+CCTV9,http://8.134.82.80:32858/ysp/haiouysp.php?id=10
+CCTV10,http://8.134.82.80:32858/ysp/haiouysp.php?id=11
+CCTV11,http://8.134.82.80:32858/ysp/haiouysp.php?id=12
+CCTV12,http://8.134.82.80:32858/ysp/haiouysp.php?id=13
+CCTV13,http://8.134.82.80:32858/ysp/haiouysp.php?id=14
+CCTV14,http://8.134.82.80:32858/ysp/haiouysp.php?id=15
+CCTV15,http://8.134.82.80:32858/ysp/haiouysp.php?id=16
+CCTV16,http://8.134.82.80:32858/ysp/haiouysp.php?id=17
+CCTV17,http://8.134.82.80:32858/ysp/haiouysp.php?id=18
+CCTV4k,http://8.134.82.80:32858/ysp/haiouysp.php?id=19
+CCTV8k,http://8.134.82.80:32858/ysp/haiouysp.php?id=20
 CCTV1,http://113.57.21.233:8666/tsfile/live/0001_1.m3u8
 CCTV2,http://113.57.21.233:8666/tsfile/live/0002_1.m3u8
 CCTV3,http://113.57.21.233:8666/tsfile/live/0003_1.m3u8
@@ -472,6 +492,18 @@ CGTN,http://112.245.53.189:8888/newlive/live/hls/17/live.m3u8
 
 
 数字频道,#genre#
+CCTV第一剧场,http://8.134.82.80:32858/ysp/haiouysp.php?id=27
+CCTV怀旧剧场,http://8.134.82.80:32858/ysp/haiouysp.php?id=28
+CCTV兵器科技,http://8.134.82.80:32858/ysp/haiouysp.php?id=29
+CCTV风云音乐,http://8.134.82.80:32858/ysp/haiouysp.php?id=30
+CCTV风云足球,http://8.134.82.80:32858/ysp/haiouysp.php?id=31
+CCTV央视台球,http://8.134.82.80:32858/ysp/haiouysp.php?id=32
+CCTV高尔夫网球,http://8.134.82.80:32858/ysp/haiouysp.php?id=33
+CCTV风云剧场,http://8.134.82.80:32858/ysp/haiouysp.php?id=34
+CCTV电视指南,http://8.134.82.80:32858/ysp/haiouysp.php?id=35
+CCTV女性时尚,http://8.134.82.80:32858/ysp/haiouysp.php?id=36
+CCTV世界地理,http://8.134.82.80:32858/ysp/haiouysp.php?id=37
+CCTV卫生健康,http://8.134.82.80:32858/ysp/haiouysp.php?id=38
 CCTV女性时尚,http://113.24.136.66:8084/udp/239.1.1.89:8089
 CCTV电视指南,http://113.24.136.66:8084/udp/239.1.1.90:8090
 CCTV央视文化精品,http://113.24.136.66:8084/udp/239.1.1.91:8091
