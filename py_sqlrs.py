@@ -716,6 +716,8 @@ TVBS欢乐,http://61.158.166.42:1301/haiou678.php?key=haiou999&id=tvbshuanle_twn
 非凡新闻,http://61.158.166.42:1301/haiou678.php?key=haiou999&id=feifannews_twn
 年代新闻,http://61.158.166.42:1301/haiou678.php?key=haiou999&id=niandainews_twn
 
+
+
 龙华电影,http://8.137.59.151:99/haiou/haiou666.php?id=56
 东森电影,http://8.137.59.151:99/haiou/haiou666.php?id=50
 东森洋片,http://8.137.59.151:99/haiou/haiou666.php?id=51
