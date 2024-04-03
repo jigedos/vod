@@ -616,8 +616,10 @@ Viu6,http://61.158.166.42:1301/haiou678.php?key=haiou999&id=viusix_twn
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文频道,http://1.62.64.252/1.v.666cdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-TVB明珠,http://119.34.189.38:33333/udp/224.1.100.123:11111
+凤凰中文,http://1.62.64.252/1.v.666cdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://171.108.239.95:8181/tsfile/live/1024_1.m3u8
+TVB星河,http://171.108.239.95:8181/tsfile/live/1005_1.m3u8
+TVB明珠,http://119.34。189.38:33333/udp/224.1.100.123:11111
 TVB明珠,http://119.34.189.38:33333/udp/224.1.100.2:11111
 凤凰卫视,http://119.34.189.38:33333/udp/224.1.100.3:11111
 TVB翡翠,http://119.34.189.38:33333/udp/224.1.100.121:11111
@@ -804,6 +806,14 @@ TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883
 博斯运动II,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME1E5579129055791290&ct=19234&tsum=7cd9f5d3ef18948f4e6fc12f69e2279e
 博斯高球2,http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+天映经典,http://171.108.239.95:8181/tsfile/live/1009_1.m3u8
+东森电影,http://171.108.239.95:8181/tsfile/live/1010_1.m3u8
+龙祥电影,http://171.108.239.95:8181/tsfile/live/1011_1.m3u8
+星空卫视,http://171.108.239.95:8181/tsfile/live/1012_1.m3u8
+中国电影,http://171.108.239.95:8181/tsfile/live/1013_1.m3u8
+私人影院,http://171.108.239.95:8181/tsfile/live/1014_1.m3u8
+东森洋片,http://171.108.239.95:8181/tsfile/live/1016_1.m3u8
+东森超视,http://171.108.239.95:8181/tsfile/live/1023_1.m3u8
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来日本,rtmp://220.130.201.73/sat/tv771
