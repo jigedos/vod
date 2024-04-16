@@ -693,37 +693,7 @@ Arirang,http://startv365.com:80/live/9794783213/6955630461/5521.m3u8
 
 
 阿里山2,#genre#
-中天新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ztxwt
-东森新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dsxwt
-东森财经新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscjxwt
-寰宇新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hyxwt
-寰宇新闻台湾,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hyxwtwt
-台视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=tsxwt
-中视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=zsxwt
-华视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hsxwt
-TVBS,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBSxwt
-三立,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=slxwt
-三立iNEWS,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=sliNEWS
-镜新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=jdsxwt
-公视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gsxw
-民视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=msxwt
-民视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ms
-台视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ts
-中视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=zs
-华视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hs
-TVBS HD,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBSHD
-TVBS欢乐,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBShlt
-中天亚洲,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ztyzt
-纬来体育,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wltyt
-纬来日本,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wlrbt
-纬来育乐,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wlylt
-ELEVEN 1,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ELEVEN1
-ELEVEN 2,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ELEVEN2
-爱尔达体育1台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty1t
-爱尔达体育2台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty2t
-爱尔达体育3台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty3t
-MOMO综合台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=MOMOzht
-东森超视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscs中天娱乐,http://50.7。238.114:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天亚洲,http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
