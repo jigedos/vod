@@ -538,57 +538,27 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 
 明珠1,#genre#
-凤凰卫视中文台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhwszwt
-凤凰卫视资讯台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhwszxt
-凤凰香港台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhxgt
-香港有线新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyxxwt
-香港有线18台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyx18t
-香港有线18台(普通话),http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyx18t
-TVB无线新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBwxxwt
+凤凰中文,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhwszwt
+凤凰资讯,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhwszxt
+凤凰香港,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhxgt
+有线新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyxxwt
+有线18台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyx18t
+有线18台(普通话),http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyx18t
+TVB新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBwxxwt
 TVB财经体育资讯台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBcjtyzxt
-TVB翡翠台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBfct
-TVB华丽翡翠台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBhlfct
-TVB明珠台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBmzt
+TVB翡翠,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBfct
+TVB华丽,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBhlfct
+TVB明珠,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBmzt
 TVB J2,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBJ2
 TVB星河,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBxh
 ViuTV,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ViuTV
 ViuTV6,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ViuTV6
 香港国际财经台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xggjcjt
 HOY TV,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=HOYTV
-HOY资讯台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=HOYzxt
+HOY资讯,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=HOYzxt
 港台电视31,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gtds31
 港台电视32,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gtds32
-中天新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ztxwt
-东森新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dsxwt
-东森财经新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscjxwt
-寰宇新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hyxwt
-寰宇新闻台湾台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hyxwtwt
-台视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=tsxwt
-中视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=zsxwt
-华视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hsxwt
-TVBS新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBSxwt
-三立新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=slxwt
-三立iNEWS,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=sliNEWS
-镜电视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=jdsxwt
-公视新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gsxw
-民视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=msxwt
-民视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ms
-台视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ts
-中视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=zs
-华视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hs
-TVBS HD,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBSHD
-TVBS欢乐台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBShlt
-中天亚洲台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ztyzt
-纬来体育台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wltyt
-纬来日本台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wlrbt
-纬来育乐台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wlylt
-ELEVEN 1,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ELEVEN1
-ELEVEN 2,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ELEVEN2
-爱尔达体育1台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty1t
-爱尔达体育2台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty2t
-爱尔达体育3台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty3t
-MOMO综合台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=MOMOzht
-东森超视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscs
+
 明珠2,#genre#
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -742,7 +712,37 @@ Arirang,http://startv365.com:80/live/9794783213/6955630461/5521.m3u8
 
 
 阿里山2,#genre#
-中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+中天新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ztxwt
+东森新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dsxwt
+东森财经新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscjxwt
+寰宇新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hyxwt
+寰宇新闻台湾,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hyxwtwt
+台视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=tsxwt
+中视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=zsxwt
+华视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hsxwt
+TVBS,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBSxwt
+三立,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=slxwt
+三立iNEWS,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=sliNEWS
+镜新闻,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=jdsxwt
+公视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gsxw
+民视新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=msxwt
+民视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ms
+台视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ts
+中视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=zs
+华视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=hs
+TVBS HD,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBSHD
+TVBS欢乐,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBShlt
+中天亚洲,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ztyzt
+纬来体育,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wltyt
+纬来日本,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wlrbt
+纬来育乐,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=wlylt
+ELEVEN 1,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ELEVEN1
+ELEVEN 2,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ELEVEN2
+爱尔达体育1台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty1t
+爱尔达体育2台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty2t
+爱尔达体育3台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=aedty3t
+MOMO综合台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=MOMOzht
+东森超视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscs中天娱乐,http://50.7。238.114:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天娱乐,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
 中天亚洲,http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
