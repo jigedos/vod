@@ -537,27 +537,8 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 
 
-明珠1,#genre#
-凤凰中文,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhwszwt
-凤凰资讯,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhwszxt
-凤凰香港,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=fhxgt
-有线新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyxxwt
-有线18台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyx18t
-有线18台(普通话),http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xgyx18t
-TVB新闻台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBwxxwt
-TVB财经体育资讯台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBcjtyzxt
-TVB翡翠,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBfct
-TVB华丽,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBhlfct
-TVB明珠,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBmzt
-TVB J2,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBJ2
-TVB星河,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=TVBxh
-ViuTV,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ViuTV
-ViuTV6,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=ViuTV6
-香港国际财经台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=xggjcjt
-HOY TV,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=HOYTV
-HOY资讯,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=HOYzxt
-港台电视31,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gtds31
-港台电视32,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=gtds32
+明珠1#genre#
+
 
 明珠2,#genre#
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
